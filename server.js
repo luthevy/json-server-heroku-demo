@@ -5,7 +5,7 @@ const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 3000;
 
 router.render = (req, res) => {
-  var json = require("raw.json");
+  var json = require("./raw.json");
   const fs = require("fs");
   const arr = [];
   for (let i = 0; i < 8; i++) {
