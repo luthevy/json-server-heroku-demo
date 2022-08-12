@@ -1,0 +1,6732 @@
+[
+  {
+      "id": 9216,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-04T00:30:00.000Z",
+          "end": "2022-02-04T03:03:00.000Z",
+          "duration": "2:23"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 5,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Scotiabank Arena",
+          "city": "Toronto",
+          "state": "ON",
+          "country": "Canada"
+      },
+      "teams": {
+          "visitors": {
+              "id": 6,
+              "name": "Chicago Bulls",
+              "nickname": "Bulls",
+              "code": "CHI",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Bulls_de_Chicago_logo.svg/1200px-Bulls_de_Chicago_logo.svg.png"
+          },
+          "home": {
+              "id": 38,
+              "name": "Toronto Raptors",
+              "nickname": "Raptors",
+              "code": "TOR",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 32,
+              "loss": 19,
+              "series": {
+                  "win": 2,
+                  "loss": 1
+              },
+              "linescore": [
+                  "24",
+                  "26",
+                  "31",
+                  "33",
+                  "6"
+              ],
+              "points": 120
+          },
+          "home": {
+              "win": 27,
+              "loss": 23,
+              "series": {
+                  "win": 1,
+                  "loss": 2
+              },
+              "linescore": [
+                  "26",
+                  "28",
+                  "33",
+                  "27",
+                  "13"
+              ],
+              "points": 127
+          }
+      },
+      "officials": [
+          "JB DeRosa",
+          "Kane Fitzgerald",
+          "Jenna Schroeder"
+      ],
+      "timesTied": 10,
+      "leadChanges": 16,
+      "nugget": null
+  },
+  {
+      "id": 10086,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-04T00:00:00.000Z",
+          "end": "2022-02-04T02:20:00.000Z",
+          "duration": "2:10"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "AT&T Center",
+          "city": "San Antonio",
+          "state": "TX",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 20,
+              "name": "Miami Heat",
+              "nickname": "Heat",
+              "code": "MIA",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/Miami_Heat_-_Logo.svg/1200px-Miami_Heat_-_Logo.svg.png"
+          },
+          "home": {
+              "id": 31,
+              "name": "San Antonio Spurs",
+              "nickname": "Spurs",
+              "code": "SAS",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 33,
+              "loss": 20,
+              "series": {
+                  "win": 1,
+                  "loss": 0
+              },
+              "linescore": [
+                  "21",
+                  "36",
+                  "31",
+                  "24"
+              ],
+              "points": 112
+          },
+          "home": {
+              "win": 19,
+              "loss": 34,
+              "series": {
+                  "win": 0,
+                  "loss": 1
+              },
+              "linescore": [
+                  "19",
+                  "28",
+                  "19",
+                  "29"
+              ],
+              "points": 95
+          }
+      },
+      "officials": [
+          "Kevin Cutler",
+          "Brett Nansel",
+          "Natalie Sago"
+      ],
+      "timesTied": 3,
+      "leadChanges": 2,
+      "nugget": null
+  },
+  {
+      "id": 10347,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-04T00:00:00.000Z",
+          "end": "2022-02-04T02:26:00.000Z",
+          "duration": "2:15"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Little Caesars Arena",
+          "city": "Detroit",
+          "state": "MI",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 22,
+              "name": "Minnesota Timberwolves",
+              "nickname": "Timberwolves",
+              "code": "MIN",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d9/Timberwolves_du_Minnesota_logo_2017.png/200px-Timberwolves_du_Minnesota_logo_2017.png"
+          },
+          "home": {
+              "id": 10,
+              "name": "Detroit Pistons",
+              "nickname": "Pistons",
+              "code": "DET",
+              "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Detroit_Pistons_primary_logo_2017.png/150px-Detroit_Pistons_primary_logo_2017.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 27,
+              "loss": 25,
+              "series": {
+                  "win": 1,
+                  "loss": 0
+              },
+              "linescore": [
+                  "31",
+                  "34",
+                  "38",
+                  "25"
+              ],
+              "points": 128
+          },
+          "home": {
+              "win": 12,
+              "loss": 39,
+              "series": {
+                  "win": 0,
+                  "loss": 1
+              },
+              "linescore": [
+                  "32",
+                  "35",
+                  "27",
+                  "23"
+              ],
+              "points": 117
+          }
+      },
+      "officials": [
+          "Marc Davis",
+          "Marat Kogut",
+          "Andy Nagy"
+      ],
+      "timesTied": 8,
+      "leadChanges": 9,
+      "nugget": null
+  },
+  {
+      "id": 10348,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-04T00:30:00.000Z",
+          "end": "2022-02-04T02:50:00.000Z",
+          "duration": "2:16"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "State Farm Arena",
+          "city": "Atlanta",
+          "state": "GA",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 28,
+              "name": "Phoenix Suns",
+              "nickname": "Suns",
+              "code": "PHX",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/5/56/Phoenix_Suns_2013.png"
+          },
+          "home": {
+              "id": 1,
+              "name": "Atlanta Hawks",
+              "nickname": "Hawks",
+              "code": "ATL",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 41,
+              "loss": 10,
+              "series": {
+                  "win": 1,
+                  "loss": 1
+              },
+              "linescore": [
+                  "30",
+                  "31",
+                  "30",
+                  "24"
+              ],
+              "points": 115
+          },
+          "home": {
+              "win": 25,
+              "loss": 26,
+              "series": {
+                  "win": 1,
+                  "loss": 1
+              },
+              "linescore": [
+                  "32",
+                  "32",
+                  "36",
+                  "24"
+              ],
+              "points": 124
+          }
+      },
+      "officials": [
+          "Ed Malloy",
+          "Brian Forte",
+          "Nate Green"
+      ],
+      "timesTied": 7,
+      "leadChanges": 9,
+      "nugget": null
+  },
+  {
+      "id": 10350,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-04T03:00:00.000Z",
+          "end": "2022-02-04T05:20:00.000Z",
+          "duration": "2:10"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Chase Center",
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 30,
+              "name": "Sacramento Kings",
+              "nickname": "Kings",
+              "code": "SAC",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Kings_de_Sacramento_logo.svg/1200px-Kings_de_Sacramento_logo.svg.png"
+          },
+          "home": {
+              "id": 11,
+              "name": "Golden State Warriors",
+              "nickname": "Warriors",
+              "code": "GSW",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/de/Warriors_de_Golden_State_logo.svg/1200px-Warriors_de_Golden_State_logo.svg.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 19,
+              "loss": 35,
+              "series": {
+                  "win": 0,
+                  "loss": 3
+              },
+              "linescore": [
+                  "23",
+                  "31",
+                  "29",
+                  "31"
+              ],
+              "points": 114
+          },
+          "home": {
+              "win": 40,
+              "loss": 13,
+              "series": {
+                  "win": 3,
+                  "loss": 0
+              },
+              "linescore": [
+                  "34",
+                  "39",
+                  "21",
+                  "32"
+              ],
+              "points": 126
+          }
+      },
+      "officials": [
+          "David Guthrie",
+          "Dedric Taylor",
+          "Jason Goldenberg"
+      ],
+      "timesTied": 1,
+      "leadChanges": 1,
+      "nugget": null
+  },
+  {
+      "id": 10351,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-04T03:00:00.000Z",
+          "end": "2022-02-04T05:34:00.000Z",
+          "duration": "2:22"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Crypto.com Arena",
+          "city": "Los Angeles",
+          "state": "CA",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 17,
+              "name": "Los Angeles Lakers",
+              "nickname": "Lakers",
+              "code": "LAL",
+              "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/220px-Los_Angeles_Lakers_logo.svg.png"
+          },
+          "home": {
+              "id": 16,
+              "name": "LA Clippers",
+              "nickname": "Clippers",
+              "code": "LAC",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/d/d6/Los_Angeles_Clippers_logo_2010.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 25,
+              "loss": 28,
+              "series": {
+                  "win": 0,
+                  "loss": 2
+              },
+              "linescore": [
+                  "26",
+                  "28",
+                  "28",
+                  "28"
+              ],
+              "points": 110
+          },
+          "home": {
+              "win": 27,
+              "loss": 27,
+              "series": {
+                  "win": 2,
+                  "loss": 0
+              },
+              "linescore": [
+                  "28",
+                  "32",
+                  "34",
+                  "17"
+              ],
+              "points": 111
+          }
+      },
+      "officials": [
+          "Zach Zarba",
+          "Aaron Smith",
+          "Jacyn Goble"
+      ],
+      "timesTied": 10,
+      "leadChanges": 17,
+      "nugget": null
+  },
+  {
+      "id": 10324,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-01T00:00:00.000Z",
+          "end": "2022-02-01T02:22:00.000Z",
+          "duration": "2:11"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Rocket Mortgage FieldHouse",
+          "city": "Cleveland",
+          "state": "OH",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 23,
+              "name": "New Orleans Pelicans",
+              "nickname": "Pelicans",
+              "code": "NOP",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/21/New_Orleans_Pelicans.png/200px-New_Orleans_Pelicans.png"
+          },
+          "home": {
+              "id": 7,
+              "name": "Cleveland Cavaliers",
+              "nickname": "Cavaliers",
+              "code": "CLE",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/06/Cavs_de_Cleveland_logo_2017.png/150px-Cavs_de_Cleveland_logo_2017.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 18,
+              "loss": 32,
+              "series": {
+                  "win": 1,
+                  "loss": 1
+              },
+              "linescore": [
+                  "19",
+                  "20",
+                  "27",
+                  "24"
+              ],
+              "points": 90
+          },
+          "home": {
+              "win": 31,
+              "loss": 20,
+              "series": {
+                  "win": 1,
+                  "loss": 1
+              },
+              "linescore": [
+                  "17",
+                  "21",
+                  "22",
+                  "33"
+              ],
+              "points": 93
+          }
+      },
+      "officials": [
+          "Marc Davis",
+          "Karl Lane",
+          "Nate Green"
+      ],
+      "timesTied": 11,
+      "leadChanges": 7,
+      "nugget": null
+  },
+  {
+      "id": 10325,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-01T00:00:00.000Z",
+          "end": "2022-02-01T02:14:00.000Z",
+          "duration": "2:04"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Gainbridge Fieldhouse",
+          "city": "Indianapolis",
+          "state": "IN",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 16,
+              "name": "LA Clippers",
+              "nickname": "Clippers",
+              "code": "LAC",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/d/d6/Los_Angeles_Clippers_logo_2010.png"
+          },
+          "home": {
+              "id": 15,
+              "name": "Indiana Pacers",
+              "nickname": "Pacers",
+              "code": "IND",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/Pacers_de_l%27Indiana_logo.svg/1180px-Pacers_de_l%27Indiana_logo.svg.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 26,
+              "loss": 27,
+              "series": {
+                  "win": 1,
+                  "loss": 1
+              },
+              "linescore": [
+                  "27",
+                  "28",
+                  "30",
+                  "31"
+              ],
+              "points": 116
+          },
+          "home": {
+              "win": 19,
+              "loss": 33,
+              "series": {
+                  "win": 1,
+                  "loss": 1
+              },
+              "linescore": [
+                  "30",
+                  "30",
+                  "24",
+                  "38"
+              ],
+              "points": 122
+          }
+      },
+      "officials": [
+          "JB DeRosa",
+          "Pat Fraher",
+          "Nick Buchert"
+      ],
+      "timesTied": 8,
+      "leadChanges": 14,
+      "nugget": null
+  },
+  {
+      "id": 10326,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-01T00:00:00.000Z",
+          "end": "2022-02-01T02:37:00.000Z",
+          "duration": "2:26"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 5,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Wells Fargo Center",
+          "city": "Philadelphia",
+          "state": "PA",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 19,
+              "name": "Memphis Grizzlies",
+              "nickname": "Grizzlies",
+              "code": "MEM",
+              "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Memphis_Grizzlies.svg/1200px-Memphis_Grizzlies.svg.png"
+          },
+          "home": {
+              "id": 27,
+              "name": "Philadelphia 76ers",
+              "nickname": "76ers",
+              "code": "PHI",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/4/48/76ers_2016.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 35,
+              "loss": 18,
+              "series": {
+                  "win": 1,
+                  "loss": 1
+              },
+              "linescore": [
+                  "30",
+                  "28",
+                  "22",
+                  "31",
+                  "8"
+              ],
+              "points": 119
+          },
+          "home": {
+              "win": 31,
+              "loss": 19,
+              "series": {
+                  "win": 1,
+                  "loss": 1
+              },
+              "linescore": [
+                  "39",
+                  "24",
+                  "21",
+                  "27",
+                  "11"
+              ],
+              "points": 122
+          }
+      },
+      "officials": [
+          "Matt Boland",
+          "Eric Lewis",
+          "Brent Barnaky"
+      ],
+      "timesTied": 14,
+      "leadChanges": 20,
+      "nugget": null
+  },
+  {
+      "id": 10327,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-01T00:30:00.000Z",
+          "end": "2022-02-01T02:47:00.000Z",
+          "duration": "2:05"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "TD Garden",
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 20,
+              "name": "Miami Heat",
+              "nickname": "Heat",
+              "code": "MIA",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/Miami_Heat_-_Logo.svg/1200px-Miami_Heat_-_Logo.svg.png"
+          },
+          "home": {
+              "id": 2,
+              "name": "Boston Celtics",
+              "nickname": "Celtics",
+              "code": "BOS",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1024px-Celtics_de_Boston_logo.svg.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 32,
+              "loss": 19,
+              "series": {
+                  "win": 0,
+                  "loss": 2
+              },
+              "linescore": [
+                  "14",
+                  "31",
+                  "25",
+                  "22"
+              ],
+              "points": 92
+          },
+          "home": {
+              "win": 27,
+              "loss": 25,
+              "series": {
+                  "win": 2,
+                  "loss": 0
+              },
+              "linescore": [
+                  "27",
+                  "27",
+                  "40",
+                  "28"
+              ],
+              "points": 122
+          }
+      },
+      "officials": [
+          "Sean Wright",
+          "Marat Kogut",
+          "Aaron Smith"
+      ],
+      "timesTied": 1,
+      "leadChanges": 0,
+      "nugget": null
+  },
+  {
+      "id": 10328,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-01T00:30:00.000Z",
+          "end": "2022-02-01T02:52:00.000Z",
+          "duration": "2:11"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Madison Square Garden",
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 30,
+              "name": "Sacramento Kings",
+              "nickname": "Kings",
+              "code": "SAC",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Kings_de_Sacramento_logo.svg/1200px-Kings_de_Sacramento_logo.svg.png"
+          },
+          "home": {
+              "id": 24,
+              "name": "New York Knicks",
+              "nickname": "Knicks",
+              "code": "NYK",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/d/dc/NY_Knicks_Logo_2011.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 18,
+              "loss": 34,
+              "series": {
+                  "win": 0,
+                  "loss": 1
+              },
+              "linescore": [
+                  "23",
+                  "18",
+                  "25",
+                  "30"
+              ],
+              "points": 96
+          },
+          "home": {
+              "win": 24,
+              "loss": 27,
+              "series": {
+                  "win": 1,
+                  "loss": 0
+              },
+              "linescore": [
+                  "31",
+                  "23",
+                  "30",
+                  "32"
+              ],
+              "points": 116
+          }
+      },
+      "officials": [
+          "Tony Brothers",
+          "Tre Maddox",
+          "Gediminas Petraitis"
+      ],
+      "timesTied": 2,
+      "leadChanges": 1,
+      "nugget": null
+  },
+  {
+      "id": 10329,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-01T01:00:00.000Z",
+          "end": "2022-02-01T03:36:00.000Z",
+          "duration": "2:25"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Toyota Center",
+          "city": "Houston",
+          "state": "TX",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 11,
+              "name": "Golden State Warriors",
+              "nickname": "Warriors",
+              "code": "GSW",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/de/Warriors_de_Golden_State_logo.svg/1200px-Warriors_de_Golden_State_logo.svg.png"
+          },
+          "home": {
+              "id": 14,
+              "name": "Houston Rockets",
+              "nickname": "Rockets",
+              "code": "HOU",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/de/Houston_Rockets_logo_2003.png/330px-Houston_Rockets_logo_2003.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 38,
+              "loss": 13,
+              "series": {
+                  "win": 3,
+                  "loss": 0
+              },
+              "linescore": [
+                  "23",
+                  "38",
+                  "26",
+                  "35"
+              ],
+              "points": 122
+          },
+          "home": {
+              "win": 14,
+              "loss": 36,
+              "series": {
+                  "win": 0,
+                  "loss": 3
+              },
+              "linescore": [
+                  "25",
+                  "27",
+                  "26",
+                  "30"
+              ],
+              "points": 108
+          }
+      },
+      "officials": [
+          "Kevin Scott",
+          "Andy Nagy",
+          "Jacyn Goble"
+      ],
+      "timesTied": 1,
+      "leadChanges": 6,
+      "nugget": null
+  },
+  {
+      "id": 10330,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-01T01:00:00.000Z",
+          "end": "2022-02-01T03:11:00.000Z",
+          "duration": "2:01"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Paycom Center",
+          "city": "Oklahoma City",
+          "state": "OK",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 29,
+              "name": "Portland Trail Blazers",
+              "nickname": "Trail Blazers",
+              "code": "POR",
+              "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Portland_Trail_Blazers_logo.svg/1200px-Portland_Trail_Blazers_logo.svg.png"
+          },
+          "home": {
+              "id": 25,
+              "name": "Oklahoma City Thunder",
+              "nickname": "Thunder",
+              "code": "OKC",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Thunder_d%27Oklahoma_City_logo.svg/1200px-Thunder_d%27Oklahoma_City_logo.svg.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 21,
+              "loss": 30,
+              "series": {
+                  "win": 0,
+                  "loss": 1
+              },
+              "linescore": [
+                  "31",
+                  "16",
+                  "14",
+                  "20"
+              ],
+              "points": 81
+          },
+          "home": {
+              "win": 15,
+              "loss": 34,
+              "series": {
+                  "win": 1,
+                  "loss": 0
+              },
+              "linescore": [
+                  "19",
+                  "20",
+                  "26",
+                  "33"
+              ],
+              "points": 98
+          }
+      },
+      "officials": [
+          "Derek Richardson",
+          "Kevin Cutler",
+          "Brett Nansel"
+      ],
+      "timesTied": 6,
+      "leadChanges": 1,
+      "nugget": null
+  },
+  {
+      "id": 10332,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-01T00:30:00.000Z",
+          "end": "2022-02-01T02:43:00.000Z",
+          "duration": "2:04"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "State Farm Arena",
+          "city": "Atlanta",
+          "state": "GA",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 38,
+              "name": "Toronto Raptors",
+              "nickname": "Raptors",
+              "code": "TOR",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png"
+          },
+          "home": {
+              "id": 1,
+              "name": "Atlanta Hawks",
+              "nickname": "Hawks",
+              "code": "ATL",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 25,
+              "loss": 23,
+              "series": {
+                  "win": 1,
+                  "loss": 0
+              },
+              "linescore": [
+                  "25",
+                  "23",
+                  "32",
+                  "26"
+              ],
+              "points": 106
+          },
+          "home": {
+              "win": 24,
+              "loss": 26,
+              "series": {
+                  "win": 0,
+                  "loss": 1
+              },
+              "linescore": [
+                  "24",
+                  "33",
+                  "15",
+                  "28"
+              ],
+              "points": 100
+          }
+      },
+      "officials": [
+          "John Goble",
+          "Matt Myers",
+          "Mitchell Ervin"
+      ],
+      "timesTied": 8,
+      "leadChanges": 12,
+      "nugget": null
+  },
+  {
+      "id": 10331,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-02T00:00:00.000Z",
+          "end": "2022-02-02T02:33:00.000Z",
+          "duration": "2:21"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Little Caesars Arena",
+          "city": "Detroit",
+          "state": "MI",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 23,
+              "name": "New Orleans Pelicans",
+              "nickname": "Pelicans",
+              "code": "NOP",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/21/New_Orleans_Pelicans.png/200px-New_Orleans_Pelicans.png"
+          },
+          "home": {
+              "id": 10,
+              "name": "Detroit Pistons",
+              "nickname": "Pistons",
+              "code": "DET",
+              "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Detroit_Pistons_primary_logo_2017.png/150px-Detroit_Pistons_primary_logo_2017.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 19,
+              "loss": 32,
+              "series": {
+                  "win": 2,
+                  "loss": 0
+              },
+              "linescore": [
+                  "31",
+                  "26",
+                  "27",
+                  "27"
+              ],
+              "points": 111
+          },
+          "home": {
+              "win": 12,
+              "loss": 38,
+              "series": {
+                  "win": 0,
+                  "loss": 2
+              },
+              "linescore": [
+                  "33",
+                  "32",
+                  "22",
+                  "14"
+              ],
+              "points": 101
+          }
+      },
+      "officials": [
+          "Josh Tiven",
+          "J.T. Orr",
+          "Scott Twardoski"
+      ],
+      "timesTied": 9,
+      "leadChanges": 13,
+      "nugget": null
+  },
+  {
+      "id": 10333,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-02T00:30:00.000Z",
+          "end": "2022-02-02T02:54:00.000Z",
+          "duration": "2:18"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Fiserv Forum",
+          "city": "Milwaukee",
+          "state": "WI",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 41,
+              "name": "Washington Wizards",
+              "nickname": "Wizards",
+              "code": "WAS",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/archive/d/d6/20161212034849%21Wizards2015.png"
+          },
+          "home": {
+              "id": 21,
+              "name": "Milwaukee Bucks",
+              "nickname": "Bucks",
+              "code": "MIL",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/3/34/Bucks2015.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 23,
+              "loss": 27,
+              "series": {
+                  "win": 1,
+                  "loss": 1
+              },
+              "linescore": [
+                  "20",
+                  "20",
+                  "33",
+                  "25"
+              ],
+              "points": 98
+          },
+          "home": {
+              "win": 32,
+              "loss": 21,
+              "series": {
+                  "win": 1,
+                  "loss": 1
+              },
+              "linescore": [
+                  "24",
+                  "29",
+                  "25",
+                  "34"
+              ],
+              "points": 112
+          }
+      },
+      "officials": [
+          "Matt Boland",
+          "James Williams",
+          "Jonathan Sterling"
+      ],
+      "timesTied": 5,
+      "leadChanges": 2,
+      "nugget": null
+  },
+  {
+      "id": 10334,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-02T01:00:00.000Z",
+          "end": "2022-02-02T03:18:00.000Z",
+          "duration": "2:06"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "United Center",
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 26,
+              "name": "Orlando Magic",
+              "nickname": "Magic",
+              "code": "ORL",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/b/bd/Orlando_Magic_logo_2010.png"
+          },
+          "home": {
+              "id": 6,
+              "name": "Chicago Bulls",
+              "nickname": "Bulls",
+              "code": "CHI",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Bulls_de_Chicago_logo.svg/1200px-Bulls_de_Chicago_logo.svg.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 11,
+              "loss": 41,
+              "series": {
+                  "win": 1,
+                  "loss": 3
+              },
+              "linescore": [
+                  "33",
+                  "30",
+                  "31",
+                  "21"
+              ],
+              "points": 115
+          },
+          "home": {
+              "win": 32,
+              "loss": 18,
+              "series": {
+                  "win": 3,
+                  "loss": 1
+              },
+              "linescore": [
+                  "34",
+                  "36",
+                  "33",
+                  "23"
+              ],
+              "points": 126
+          }
+      },
+      "officials": [
+          "James Capers",
+          "Brent Barnaky",
+          "Lauren Holtkamp"
+      ],
+      "timesTied": 5,
+      "leadChanges": 7,
+      "nugget": null
+  },
+  {
+      "id": 10335,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-02T01:00:00.000Z",
+          "end": "2022-02-02T03:19:00.000Z",
+          "duration": "2:08"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "state": "MN",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 9,
+              "name": "Denver Nuggets",
+              "nickname": "Nuggets",
+              "code": "DEN",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Nuggets_de_Denver_2018.png/180px-Nuggets_de_Denver_2018.png"
+          },
+          "home": {
+              "id": 22,
+              "name": "Minnesota Timberwolves",
+              "nickname": "Timberwolves",
+              "code": "MIN",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d9/Timberwolves_du_Minnesota_logo_2017.png/200px-Timberwolves_du_Minnesota_logo_2017.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 28,
+              "loss": 22,
+              "series": {
+                  "win": 1,
+                  "loss": 2
+              },
+              "linescore": [
+                  "28",
+                  "23",
+                  "27",
+                  "37"
+              ],
+              "points": 115
+          },
+          "home": {
+              "win": 26,
+              "loss": 25,
+              "series": {
+                  "win": 2,
+                  "loss": 1
+              },
+              "linescore": [
+                  "30",
+                  "39",
+                  "31",
+                  "30"
+              ],
+              "points": 130
+          }
+      },
+      "officials": [
+          "JB DeRosa",
+          "Brian Forte",
+          "Danielle Scott"
+      ],
+      "timesTied": 3,
+      "leadChanges": 6,
+      "nugget": null
+  },
+  {
+      "id": 10336,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-02T01:30:00.000Z",
+          "end": "2022-02-02T03:56:00.000Z",
+          "duration": "2:16"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "AT&T Center",
+          "city": "San Antonio",
+          "state": "TX",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 11,
+              "name": "Golden State Warriors",
+              "nickname": "Warriors",
+              "code": "GSW",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/de/Warriors_de_Golden_State_logo.svg/1200px-Warriors_de_Golden_State_logo.svg.png"
+          },
+          "home": {
+              "id": 31,
+              "name": "San Antonio Spurs",
+              "nickname": "Spurs",
+              "code": "SAS",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 39,
+              "loss": 13,
+              "series": {
+                  "win": 1,
+                  "loss": 1
+              },
+              "linescore": [
+                  "30",
+                  "31",
+                  "28",
+                  "35"
+              ],
+              "points": 124
+          },
+          "home": {
+              "win": 19,
+              "loss": 33,
+              "series": {
+                  "win": 1,
+                  "loss": 1
+              },
+              "linescore": [
+                  "36",
+                  "33",
+                  "35",
+                  "16"
+              ],
+              "points": 120
+          }
+      },
+      "officials": [
+          "Tom Washington",
+          "Mark Lindsay",
+          "Mousa Dagher"
+      ],
+      "timesTied": 3,
+      "leadChanges": 8,
+      "nugget": null
+  },
+  {
+      "id": 10337,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-02T03:00:00.000Z",
+          "end": "2022-02-02T05:28:00.000Z",
+          "duration": "2:23"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Footprint Center",
+          "city": "Phoenix",
+          "state": "AZ",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 4,
+              "name": "Brooklyn Nets",
+              "nickname": "Nets",
+              "code": "BKN",
+              "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Brooklyn_Nets_newlogo.svg/130px-Brooklyn_Nets_newlogo.svg.png"
+          },
+          "home": {
+              "id": 28,
+              "name": "Phoenix Suns",
+              "nickname": "Suns",
+              "code": "PHX",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/5/56/Phoenix_Suns_2013.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 29,
+              "loss": 21,
+              "series": {
+                  "win": 0,
+                  "loss": 2
+              },
+              "linescore": [
+                  "29",
+                  "29",
+                  "24",
+                  "29"
+              ],
+              "points": 111
+          },
+          "home": {
+              "win": 41,
+              "loss": 9,
+              "series": {
+                  "win": 2,
+                  "loss": 0
+              },
+              "linescore": [
+                  "39",
+                  "26",
+                  "26",
+                  "30"
+              ],
+              "points": 121
+          }
+      },
+      "officials": [
+          "Curtis Blair",
+          "Dedric Taylor",
+          "Natalie Sago"
+      ],
+      "timesTied": 5,
+      "leadChanges": 6,
+      "nugget": null
+  },
+  {
+      "id": 10349,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-02T00:30:00.000Z",
+          "end": "2022-02-02T02:57:00.000Z",
+          "duration": "2:17"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Scotiabank Arena",
+          "city": "Toronto",
+          "state": "ON",
+          "country": "Canada"
+      },
+      "teams": {
+          "visitors": {
+              "id": 20,
+              "name": "Miami Heat",
+              "nickname": "Heat",
+              "code": "MIA",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/Miami_Heat_-_Logo.svg/1200px-Miami_Heat_-_Logo.svg.png"
+          },
+          "home": {
+              "id": 38,
+              "name": "Toronto Raptors",
+              "nickname": "Raptors",
+              "code": "TOR",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 32,
+              "loss": 20,
+              "series": {
+                  "win": 1,
+                  "loss": 2
+              },
+              "linescore": [
+                  "32",
+                  "30",
+                  "21",
+                  "23"
+              ],
+              "points": 106
+          },
+          "home": {
+              "win": 26,
+              "loss": 23,
+              "series": {
+                  "win": 2,
+                  "loss": 1
+              },
+              "linescore": [
+                  "22",
+                  "28",
+                  "30",
+                  "30"
+              ],
+              "points": 110
+          }
+      },
+      "officials": [
+          "Bennie Adams",
+          "Kane Fitzgerald",
+          "Gediminas Petraitis"
+      ],
+      "timesTied": 2,
+      "leadChanges": 5,
+      "nugget": null
+  },
+  {
+      "id": 10338,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-03T00:00:00.000Z",
+          "end": "2022-02-03T02:57:00.000Z",
+          "duration": "2:24"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Gainbridge Fieldhouse",
+          "city": "Indianapolis",
+          "state": "IN",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 26,
+              "name": "Orlando Magic",
+              "nickname": "Magic",
+              "code": "ORL",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/b/bd/Orlando_Magic_logo_2010.png"
+          },
+          "home": {
+              "id": 15,
+              "name": "Indiana Pacers",
+              "nickname": "Pacers",
+              "code": "IND",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/Pacers_de_l%27Indiana_logo.svg/1180px-Pacers_de_l%27Indiana_logo.svg.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 12,
+              "loss": 41,
+              "series": {
+                  "win": 1,
+                  "loss": 0
+              },
+              "linescore": [
+                  "28",
+                  "25",
+                  "33",
+                  "33"
+              ],
+              "points": 119
+          },
+          "home": {
+              "win": 19,
+              "loss": 34,
+              "series": {
+                  "win": 0,
+                  "loss": 1
+              },
+              "linescore": [
+                  "34",
+                  "33",
+                  "21",
+                  "30"
+              ],
+              "points": 118
+          }
+      },
+      "officials": [
+          "Tony Brothers",
+          "Scott Wall",
+          "Andy Nagy"
+      ],
+      "timesTied": 4,
+      "leadChanges": 3,
+      "nugget": null
+  },
+  {
+      "id": 10339,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-03T00:00:00.000Z",
+          "end": "2022-02-03T02:57:00.000Z",
+          "duration": "2:11"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Wells Fargo Center",
+          "city": "Philadelphia",
+          "state": "PA",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 41,
+              "name": "Washington Wizards",
+              "nickname": "Wizards",
+              "code": "WAS",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/archive/d/d6/20161212034849%21Wizards2015.png"
+          },
+          "home": {
+              "id": 27,
+              "name": "Philadelphia 76ers",
+              "nickname": "76ers",
+              "code": "PHI",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/4/48/76ers_2016.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 24,
+              "loss": 27,
+              "series": {
+                  "win": 2,
+                  "loss": 1
+              },
+              "linescore": [
+                  "29",
+                  "30",
+                  "22",
+                  "25"
+              ],
+              "points": 106
+          },
+          "home": {
+              "win": 31,
+              "loss": 20,
+              "series": {
+                  "win": 1,
+                  "loss": 2
+              },
+              "linescore": [
+                  "28",
+                  "26",
+                  "25",
+                  "24"
+              ],
+              "points": 103
+          }
+      },
+      "officials": [
+          "Marc Davis",
+          "Karl Lane",
+          "Nate Green"
+      ],
+      "timesTied": 8,
+      "leadChanges": 17,
+      "nugget": null
+  },
+  {
+      "id": 10340,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-03T00:30:00.000Z",
+          "end": "2022-02-03T02:54:00.000Z",
+          "duration": "2:13"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "TD Garden",
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 5,
+              "name": "Charlotte Hornets",
+              "nickname": "Hornets",
+              "code": "CHA",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f3/Hornets_de_Charlotte_logo.svg/1200px-Hornets_de_Charlotte_logo.svg.png"
+          },
+          "home": {
+              "id": 2,
+              "name": "Boston Celtics",
+              "nickname": "Celtics",
+              "code": "BOS",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1024px-Celtics_de_Boston_logo.svg.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 28,
+              "loss": 24,
+              "series": {
+                  "win": 1,
+                  "loss": 2
+              },
+              "linescore": [
+                  "22",
+                  "31",
+                  "25",
+                  "29"
+              ],
+              "points": 107
+          },
+          "home": {
+              "win": 28,
+              "loss": 25,
+              "series": {
+                  "win": 2,
+                  "loss": 1
+              },
+              "linescore": [
+                  "27",
+                  "27",
+                  "34",
+                  "25"
+              ],
+              "points": 113
+          }
+      },
+      "officials": [
+          "Eric Lewis",
+          "Mitchell Ervin",
+          "Phenizee Ransom"
+      ],
+      "timesTied": 8,
+      "leadChanges": 6,
+      "nugget": null
+  },
+  {
+      "id": 10341,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-03T00:30:00.000Z",
+          "end": "2022-02-03T03:13:00.000Z",
+          "duration": "2:26"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Madison Square Garden",
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 19,
+              "name": "Memphis Grizzlies",
+              "nickname": "Grizzlies",
+              "code": "MEM",
+              "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Memphis_Grizzlies.svg/1200px-Memphis_Grizzlies.svg.png"
+          },
+          "home": {
+              "id": 24,
+              "name": "New York Knicks",
+              "nickname": "Knicks",
+              "code": "NYK",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/d/dc/NY_Knicks_Logo_2011.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 36,
+              "loss": 18,
+              "series": {
+                  "win": 1,
+                  "loss": 0
+              },
+              "linescore": [
+                  "35",
+                  "29",
+                  "28",
+                  "28"
+              ],
+              "points": 120
+          },
+          "home": {
+              "win": 24,
+              "loss": 28,
+              "series": {
+                  "win": 0,
+                  "loss": 1
+              },
+              "linescore": [
+                  "27",
+                  "25",
+                  "27",
+                  "29"
+              ],
+              "points": 108
+          }
+      },
+      "officials": [
+          "Sean Wright",
+          "J.T. Orr",
+          "Tyler Ford"
+      ],
+      "timesTied": 1,
+      "leadChanges": 1,
+      "nugget": null
+  },
+  {
+      "id": 10342,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-03T01:00:00.000Z",
+          "end": "2022-02-03T03:33:00.000Z",
+          "duration": "2:21"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Toyota Center",
+          "city": "Houston",
+          "state": "TX",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 7,
+              "name": "Cleveland Cavaliers",
+              "nickname": "Cavaliers",
+              "code": "CLE",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/06/Cavs_de_Cleveland_logo_2017.png/150px-Cavs_de_Cleveland_logo_2017.png"
+          },
+          "home": {
+              "id": 14,
+              "name": "Houston Rockets",
+              "nickname": "Rockets",
+              "code": "HOU",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/de/Houston_Rockets_logo_2003.png/330px-Houston_Rockets_logo_2003.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 31,
+              "loss": 21,
+              "series": {
+                  "win": 1,
+                  "loss": 1
+              },
+              "linescore": [
+                  "31",
+                  "22",
+                  "30",
+                  "21"
+              ],
+              "points": 104
+          },
+          "home": {
+              "win": 15,
+              "loss": 36,
+              "series": {
+                  "win": 1,
+                  "loss": 1
+              },
+              "linescore": [
+                  "32",
+                  "32",
+                  "26",
+                  "25"
+              ],
+              "points": 115
+          }
+      },
+      "officials": [
+          "Courtney Kirkland",
+          "Brett Nansel",
+          "Ray Acosta"
+      ],
+      "timesTied": 1,
+      "leadChanges": 1,
+      "nugget": null
+  },
+  {
+      "id": 10343,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-03T01:30:00.000Z",
+          "end": "2022-02-03T04:08:00.000Z",
+          "duration": "2:22"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 5,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "American Airlines Center",
+          "city": "Dallas",
+          "state": "TX",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 25,
+              "name": "Oklahoma City Thunder",
+              "nickname": "Thunder",
+              "code": "OKC",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Thunder_d%27Oklahoma_City_logo.svg/1200px-Thunder_d%27Oklahoma_City_logo.svg.png"
+          },
+          "home": {
+              "id": 8,
+              "name": "Dallas Mavericks",
+              "nickname": "Mavericks",
+              "code": "DAL",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b8/Mavericks_de_Dallas_logo.svg/150px-Mavericks_de_Dallas_logo.svg.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 16,
+              "loss": 34,
+              "series": {
+                  "win": 1,
+                  "loss": 3
+              },
+              "linescore": [
+                  "30",
+                  "21",
+                  "34",
+                  "18",
+                  "17"
+              ],
+              "points": 120
+          },
+          "home": {
+              "win": 29,
+              "loss": 23,
+              "series": {
+                  "win": 3,
+                  "loss": 1
+              },
+              "linescore": [
+                  "28",
+                  "23",
+                  "25",
+                  "27",
+                  "11"
+              ],
+              "points": 114
+          }
+      },
+      "officials": [
+          "Nick Buchert",
+          "Ben Taylor",
+          "Jonathan Sterling"
+      ],
+      "timesTied": 9,
+      "leadChanges": 16,
+      "nugget": null
+  },
+  {
+      "id": 10344,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-03T03:00:00.000Z",
+          "end": "2022-02-03T05:28:00.000Z",
+          "duration": "2:16"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Vivint Arena",
+          "city": "Salt Lake City",
+          "state": "UT",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 9,
+              "name": "Denver Nuggets",
+              "nickname": "Nuggets",
+              "code": "DEN",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Nuggets_de_Denver_2018.png/180px-Nuggets_de_Denver_2018.png"
+          },
+          "home": {
+              "id": 40,
+              "name": "Utah Jazz",
+              "nickname": "Jazz",
+              "code": "UTA",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/3/3b/Jazz_de_l%27Utah_logo.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 28,
+              "loss": 23,
+              "series": {
+                  "win": 0,
+                  "loss": 4
+              },
+              "linescore": [
+                  "30",
+                  "31",
+                  "18",
+                  "25"
+              ],
+              "points": 104
+          },
+          "home": {
+              "win": 31,
+              "loss": 21,
+              "series": {
+                  "win": 4,
+                  "loss": 0
+              },
+              "linescore": [
+                  "28",
+                  "32",
+                  "22",
+                  "26"
+              ],
+              "points": 108
+          }
+      },
+      "officials": [
+          "David Guthrie",
+          "Eric Dalen",
+          "Justin Van Duyne"
+      ],
+      "timesTied": 7,
+      "leadChanges": 8,
+      "nugget": null
+  },
+  {
+      "id": 10345,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-03T03:00:00.000Z",
+          "end": "2022-02-03T05:11:00.000Z",
+          "duration": "2:01"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Golden 1 Center",
+          "city": "Sacramento",
+          "state": "CA",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 4,
+              "name": "Brooklyn Nets",
+              "nickname": "Nets",
+              "code": "BKN",
+              "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Brooklyn_Nets_newlogo.svg/130px-Brooklyn_Nets_newlogo.svg.png"
+          },
+          "home": {
+              "id": 30,
+              "name": "Sacramento Kings",
+              "nickname": "Kings",
+              "code": "SAC",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Kings_de_Sacramento_logo.svg/1200px-Kings_de_Sacramento_logo.svg.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 29,
+              "loss": 22,
+              "series": {
+                  "win": 0,
+                  "loss": 1
+              },
+              "linescore": [
+                  "32",
+                  "30",
+                  "24",
+                  "15"
+              ],
+              "points": 101
+          },
+          "home": {
+              "win": 19,
+              "loss": 34,
+              "series": {
+                  "win": 1,
+                  "loss": 0
+              },
+              "linescore": [
+                  "23",
+                  "31",
+                  "29",
+                  "29"
+              ],
+              "points": 112
+          }
+      },
+      "officials": [
+          "Bill Kennedy",
+          "Jacyn Goble",
+          "John Butler"
+      ],
+      "timesTied": 4,
+      "leadChanges": 11,
+      "nugget": null
+  },
+  {
+      "id": 10346,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-03T03:30:00.000Z",
+          "end": "2022-02-03T06:02:00.000Z",
+          "duration": "2:19"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Crypto.com Arena",
+          "city": "Los Angeles",
+          "state": "CA",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 29,
+              "name": "Portland Trail Blazers",
+              "nickname": "Trail Blazers",
+              "code": "POR",
+              "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Portland_Trail_Blazers_logo.svg/1200px-Portland_Trail_Blazers_logo.svg.png"
+          },
+          "home": {
+              "id": 17,
+              "name": "Los Angeles Lakers",
+              "nickname": "Lakers",
+              "code": "LAL",
+              "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/220px-Los_Angeles_Lakers_logo.svg.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 21,
+              "loss": 31,
+              "series": {
+                  "win": 1,
+                  "loss": 2
+              },
+              "linescore": [
+                  "16",
+                  "37",
+                  "22",
+                  "19"
+              ],
+              "points": 94
+          },
+          "home": {
+              "win": 25,
+              "loss": 27,
+              "series": {
+                  "win": 2,
+                  "loss": 1
+              },
+              "linescore": [
+                  "28",
+                  "26",
+                  "18",
+                  "27"
+              ],
+              "points": 99
+          }
+      },
+      "officials": [
+          "Leon Wood",
+          "Curtis Blair",
+          "Jason Goldenberg"
+      ],
+      "timesTied": 4,
+      "leadChanges": 4,
+      "nugget": null
+  },
+  {
+      "id": 9216,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-04T00:30:00.000Z",
+          "end": "2022-02-04T03:03:00.000Z",
+          "duration": "2:23"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 5,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Scotiabank Arena",
+          "city": "Toronto",
+          "state": "ON",
+          "country": "Canada"
+      },
+      "teams": {
+          "visitors": {
+              "id": 6,
+              "name": "Chicago Bulls",
+              "nickname": "Bulls",
+              "code": "CHI",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Bulls_de_Chicago_logo.svg/1200px-Bulls_de_Chicago_logo.svg.png"
+          },
+          "home": {
+              "id": 38,
+              "name": "Toronto Raptors",
+              "nickname": "Raptors",
+              "code": "TOR",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 32,
+              "loss": 19,
+              "series": {
+                  "win": 2,
+                  "loss": 1
+              },
+              "linescore": [
+                  "24",
+                  "26",
+                  "31",
+                  "33",
+                  "6"
+              ],
+              "points": 120
+          },
+          "home": {
+              "win": 27,
+              "loss": 23,
+              "series": {
+                  "win": 1,
+                  "loss": 2
+              },
+              "linescore": [
+                  "26",
+                  "28",
+                  "33",
+                  "27",
+                  "13"
+              ],
+              "points": 127
+          }
+      },
+      "officials": [
+          "JB DeRosa",
+          "Kane Fitzgerald",
+          "Jenna Schroeder"
+      ],
+      "timesTied": 10,
+      "leadChanges": 16,
+      "nugget": null
+  },
+  {
+      "id": 10086,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-04T00:00:00.000Z",
+          "end": "2022-02-04T02:20:00.000Z",
+          "duration": "2:10"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "AT&T Center",
+          "city": "San Antonio",
+          "state": "TX",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 20,
+              "name": "Miami Heat",
+              "nickname": "Heat",
+              "code": "MIA",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/Miami_Heat_-_Logo.svg/1200px-Miami_Heat_-_Logo.svg.png"
+          },
+          "home": {
+              "id": 31,
+              "name": "San Antonio Spurs",
+              "nickname": "Spurs",
+              "code": "SAS",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 33,
+              "loss": 20,
+              "series": {
+                  "win": 1,
+                  "loss": 0
+              },
+              "linescore": [
+                  "21",
+                  "36",
+                  "31",
+                  "24"
+              ],
+              "points": 112
+          },
+          "home": {
+              "win": 19,
+              "loss": 34,
+              "series": {
+                  "win": 0,
+                  "loss": 1
+              },
+              "linescore": [
+                  "19",
+                  "28",
+                  "19",
+                  "29"
+              ],
+              "points": 95
+          }
+      },
+      "officials": [
+          "Kevin Cutler",
+          "Brett Nansel",
+          "Natalie Sago"
+      ],
+      "timesTied": 3,
+      "leadChanges": 2,
+      "nugget": null
+  },
+  {
+      "id": 10347,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-04T00:00:00.000Z",
+          "end": "2022-02-04T02:26:00.000Z",
+          "duration": "2:15"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Little Caesars Arena",
+          "city": "Detroit",
+          "state": "MI",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 22,
+              "name": "Minnesota Timberwolves",
+              "nickname": "Timberwolves",
+              "code": "MIN",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d9/Timberwolves_du_Minnesota_logo_2017.png/200px-Timberwolves_du_Minnesota_logo_2017.png"
+          },
+          "home": {
+              "id": 10,
+              "name": "Detroit Pistons",
+              "nickname": "Pistons",
+              "code": "DET",
+              "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Detroit_Pistons_primary_logo_2017.png/150px-Detroit_Pistons_primary_logo_2017.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 27,
+              "loss": 25,
+              "series": {
+                  "win": 1,
+                  "loss": 0
+              },
+              "linescore": [
+                  "31",
+                  "34",
+                  "38",
+                  "25"
+              ],
+              "points": 128
+          },
+          "home": {
+              "win": 12,
+              "loss": 39,
+              "series": {
+                  "win": 0,
+                  "loss": 1
+              },
+              "linescore": [
+                  "32",
+                  "35",
+                  "27",
+                  "23"
+              ],
+              "points": 117
+          }
+      },
+      "officials": [
+          "Marc Davis",
+          "Marat Kogut",
+          "Andy Nagy"
+      ],
+      "timesTied": 8,
+      "leadChanges": 9,
+      "nugget": null
+  },
+  {
+      "id": 10348,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-04T00:30:00.000Z",
+          "end": "2022-02-04T02:50:00.000Z",
+          "duration": "2:16"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "State Farm Arena",
+          "city": "Atlanta",
+          "state": "GA",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 28,
+              "name": "Phoenix Suns",
+              "nickname": "Suns",
+              "code": "PHX",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/5/56/Phoenix_Suns_2013.png"
+          },
+          "home": {
+              "id": 1,
+              "name": "Atlanta Hawks",
+              "nickname": "Hawks",
+              "code": "ATL",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 41,
+              "loss": 10,
+              "series": {
+                  "win": 1,
+                  "loss": 1
+              },
+              "linescore": [
+                  "30",
+                  "31",
+                  "30",
+                  "24"
+              ],
+              "points": 115
+          },
+          "home": {
+              "win": 25,
+              "loss": 26,
+              "series": {
+                  "win": 1,
+                  "loss": 1
+              },
+              "linescore": [
+                  "32",
+                  "32",
+                  "36",
+                  "24"
+              ],
+              "points": 124
+          }
+      },
+      "officials": [
+          "Ed Malloy",
+          "Brian Forte",
+          "Nate Green"
+      ],
+      "timesTied": 7,
+      "leadChanges": 9,
+      "nugget": null
+  },
+  {
+      "id": 10350,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-04T03:00:00.000Z",
+          "end": "2022-02-04T05:20:00.000Z",
+          "duration": "2:10"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Chase Center",
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 30,
+              "name": "Sacramento Kings",
+              "nickname": "Kings",
+              "code": "SAC",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Kings_de_Sacramento_logo.svg/1200px-Kings_de_Sacramento_logo.svg.png"
+          },
+          "home": {
+              "id": 11,
+              "name": "Golden State Warriors",
+              "nickname": "Warriors",
+              "code": "GSW",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/de/Warriors_de_Golden_State_logo.svg/1200px-Warriors_de_Golden_State_logo.svg.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 19,
+              "loss": 35,
+              "series": {
+                  "win": 0,
+                  "loss": 3
+              },
+              "linescore": [
+                  "23",
+                  "31",
+                  "29",
+                  "31"
+              ],
+              "points": 114
+          },
+          "home": {
+              "win": 40,
+              "loss": 13,
+              "series": {
+                  "win": 3,
+                  "loss": 0
+              },
+              "linescore": [
+                  "34",
+                  "39",
+                  "21",
+                  "32"
+              ],
+              "points": 126
+          }
+      },
+      "officials": [
+          "David Guthrie",
+          "Dedric Taylor",
+          "Jason Goldenberg"
+      ],
+      "timesTied": 1,
+      "leadChanges": 1,
+      "nugget": null
+  },
+  {
+      "id": 10351,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-04T03:00:00.000Z",
+          "end": "2022-02-04T05:34:00.000Z",
+          "duration": "2:22"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Crypto.com Arena",
+          "city": "Los Angeles",
+          "state": "CA",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 17,
+              "name": "Los Angeles Lakers",
+              "nickname": "Lakers",
+              "code": "LAL",
+              "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/220px-Los_Angeles_Lakers_logo.svg.png"
+          },
+          "home": {
+              "id": 16,
+              "name": "LA Clippers",
+              "nickname": "Clippers",
+              "code": "LAC",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/d/d6/Los_Angeles_Clippers_logo_2010.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 25,
+              "loss": 28,
+              "series": {
+                  "win": 0,
+                  "loss": 2
+              },
+              "linescore": [
+                  "26",
+                  "28",
+                  "28",
+                  "28"
+              ],
+              "points": 110
+          },
+          "home": {
+              "win": 27,
+              "loss": 27,
+              "series": {
+                  "win": 2,
+                  "loss": 0
+              },
+              "linescore": [
+                  "28",
+                  "32",
+                  "34",
+                  "17"
+              ],
+              "points": 111
+          }
+      },
+      "officials": [
+          "Zach Zarba",
+          "Aaron Smith",
+          "Jacyn Goble"
+      ],
+      "timesTied": 10,
+      "leadChanges": 17,
+      "nugget": null
+  },
+  {
+      "id": 10352,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-05T00:00:00.000Z",
+          "end": "2022-02-05T02:31:00.000Z",
+          "duration": "2:16"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Spectrum Center",
+          "city": "Charlotte",
+          "state": "NC",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 7,
+              "name": "Cleveland Cavaliers",
+              "nickname": "Cavaliers",
+              "code": "CLE",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/06/Cavs_de_Cleveland_logo_2017.png/150px-Cavs_de_Cleveland_logo_2017.png"
+          },
+          "home": {
+              "id": 5,
+              "name": "Charlotte Hornets",
+              "nickname": "Hornets",
+              "code": "CHA",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f3/Hornets_de_Charlotte_logo.svg/1200px-Hornets_de_Charlotte_logo.svg.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 32,
+              "loss": 21,
+              "series": {
+                  "win": 2,
+                  "loss": 1
+              },
+              "linescore": [
+                  "22",
+                  "30",
+                  "24",
+                  "26"
+              ],
+              "points": 102
+          },
+          "home": {
+              "win": 28,
+              "loss": 25,
+              "series": {
+                  "win": 1,
+                  "loss": 2
+              },
+              "linescore": [
+                  "31",
+                  "15",
+                  "19",
+                  "36"
+              ],
+              "points": 101
+          }
+      },
+      "officials": [
+          "Matt Boland",
+          "Brian Forte",
+          "Marat Kogut"
+      ],
+      "timesTied": 8,
+      "leadChanges": 4,
+      "nugget": null
+  },
+  {
+      "id": 10353,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-05T00:00:00.000Z",
+          "end": "2022-02-05T02:21:00.000Z",
+          "duration": "2:10"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Little Caesars Arena",
+          "city": "Detroit",
+          "state": "MI",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 2,
+              "name": "Boston Celtics",
+              "nickname": "Celtics",
+              "code": "BOS",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1024px-Celtics_de_Boston_logo.svg.png"
+          },
+          "home": {
+              "id": 10,
+              "name": "Detroit Pistons",
+              "nickname": "Pistons",
+              "code": "DET",
+              "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Detroit_Pistons_primary_logo_2017.png/150px-Detroit_Pistons_primary_logo_2017.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 29,
+              "loss": 25,
+              "series": {
+                  "win": 1,
+                  "loss": 0
+              },
+              "linescore": [
+                  "28",
+                  "18",
+                  "32",
+                  "24"
+              ],
+              "points": 102
+          },
+          "home": {
+              "win": 12,
+              "loss": 40,
+              "series": {
+                  "win": 0,
+                  "loss": 1
+              },
+              "linescore": [
+                  "16",
+                  "15",
+                  "25",
+                  "37"
+              ],
+              "points": 93
+          }
+      },
+      "officials": [
+          "James Capers",
+          "Scott Wall",
+          "Brent Barnaky"
+      ],
+      "timesTied": 0,
+      "leadChanges": 0,
+      "nugget": null
+  },
+  {
+      "id": 10354,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-05T00:00:00.000Z",
+          "end": "2022-02-05T02:24:00.000Z",
+          "duration": "2:14"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Gainbridge Fieldhouse",
+          "city": "Indianapolis",
+          "state": "IN",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 6,
+              "name": "Chicago Bulls",
+              "nickname": "Bulls",
+              "code": "CHI",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Bulls_de_Chicago_logo.svg/1200px-Bulls_de_Chicago_logo.svg.png"
+          },
+          "home": {
+              "id": 15,
+              "name": "Indiana Pacers",
+              "nickname": "Pacers",
+              "code": "IND",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/Pacers_de_l%27Indiana_logo.svg/1180px-Pacers_de_l%27Indiana_logo.svg.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 33,
+              "loss": 19,
+              "series": {
+                  "win": 3,
+                  "loss": 1
+              },
+              "linescore": [
+                  "40",
+                  "25",
+                  "28",
+                  "29"
+              ],
+              "points": 122
+          },
+          "home": {
+              "win": 19,
+              "loss": 35,
+              "series": {
+                  "win": 1,
+                  "loss": 3
+              },
+              "linescore": [
+                  "33",
+                  "29",
+                  "28",
+                  "25"
+              ],
+              "points": 115
+          }
+      },
+      "officials": [
+          "John Goble",
+          "Gediminas Petraitis",
+          "Tyler Ford"
+      ],
+      "timesTied": 2,
+      "leadChanges": 2,
+      "nugget": null
+  },
+  {
+      "id": 10355,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-05T00:30:00.000Z",
+          "end": "2022-02-05T02:43:00.000Z",
+          "duration": "2:02"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Scotiabank Arena",
+          "city": "Toronto",
+          "state": "ON",
+          "country": "Canada"
+      },
+      "teams": {
+          "visitors": {
+              "id": 1,
+              "name": "Atlanta Hawks",
+              "nickname": "Hawks",
+              "code": "ATL",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png"
+          },
+          "home": {
+              "id": 38,
+              "name": "Toronto Raptors",
+              "nickname": "Raptors",
+              "code": "TOR",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 25,
+              "loss": 27,
+              "series": {
+                  "win": 0,
+                  "loss": 2
+              },
+              "linescore": [
+                  "28",
+                  "31",
+                  "27",
+                  "28"
+              ],
+              "points": 114
+          },
+          "home": {
+              "win": 28,
+              "loss": 23,
+              "series": {
+                  "win": 2,
+                  "loss": 0
+              },
+              "linescore": [
+                  "39",
+                  "21",
+                  "36",
+                  "29"
+              ],
+              "points": 125
+          }
+      },
+      "officials": [
+          "JB DeRosa",
+          "Pat Fraher",
+          "Mark Lindsay"
+      ],
+      "timesTied": 1,
+      "leadChanges": 1,
+      "nugget": null
+  },
+  {
+      "id": 10356,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-05T03:00:00.000Z",
+          "end": "2022-02-05T06:17:00.000Z",
+          "duration": "3:00"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "American Airlines Center",
+          "city": "Dallas",
+          "state": "TX",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 27,
+              "name": "Philadelphia 76ers",
+              "nickname": "76ers",
+              "code": "PHI",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/4/48/76ers_2016.png"
+          },
+          "home": {
+              "id": 8,
+              "name": "Dallas Mavericks",
+              "nickname": "Mavericks",
+              "code": "DAL",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b8/Mavericks_de_Dallas_logo.svg/150px-Mavericks_de_Dallas_logo.svg.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 31,
+              "loss": 21,
+              "series": {
+                  "win": 0,
+                  "loss": 1
+              },
+              "linescore": [
+                  "33",
+                  "30",
+                  "15",
+                  "20"
+              ],
+              "points": 98
+          },
+          "home": {
+              "win": 30,
+              "loss": 23,
+              "series": {
+                  "win": 1,
+                  "loss": 0
+              },
+              "linescore": [
+                  "24",
+                  "29",
+                  "32",
+                  "22"
+              ],
+              "points": 107
+          }
+      },
+      "officials": [
+          "Courtney Kirkland",
+          "Ben Taylor",
+          "Natalie Sago"
+      ],
+      "timesTied": 2,
+      "leadChanges": 10,
+      "nugget": null
+  },
+  {
+      "id": 10357,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-05T01:30:00.000Z",
+          "end": "2022-02-05T03:48:00.000Z",
+          "duration": "2:08"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "AT&T Center",
+          "city": "San Antonio",
+          "state": "TX",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 14,
+              "name": "Houston Rockets",
+              "nickname": "Rockets",
+              "code": "HOU",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/de/Houston_Rockets_logo_2003.png/330px-Houston_Rockets_logo_2003.png"
+          },
+          "home": {
+              "id": 31,
+              "name": "San Antonio Spurs",
+              "nickname": "Spurs",
+              "code": "SAS",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 15,
+              "loss": 37,
+              "series": {
+                  "win": 1,
+                  "loss": 2
+              },
+              "linescore": [
+                  "25",
+                  "29",
+                  "23",
+                  "29"
+              ],
+              "points": 106
+          },
+          "home": {
+              "win": 20,
+              "loss": 34,
+              "series": {
+                  "win": 2,
+                  "loss": 1
+              },
+              "linescore": [
+                  "33",
+                  "24",
+                  "40",
+                  "34"
+              ],
+              "points": 131
+          }
+      },
+      "officials": [
+          "Sean Wright",
+          "Kevin Cutler",
+          "Jonathan Sterling"
+      ],
+      "timesTied": 4,
+      "leadChanges": 8,
+      "nugget": null
+  },
+  {
+      "id": 10358,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-05T02:00:00.000Z",
+          "end": "2022-02-05T04:06:00.000Z",
+          "duration": "1:56"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Vivint Arena",
+          "city": "Salt Lake City",
+          "state": "UT",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 4,
+              "name": "Brooklyn Nets",
+              "nickname": "Nets",
+              "code": "BKN",
+              "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Brooklyn_Nets_newlogo.svg/130px-Brooklyn_Nets_newlogo.svg.png"
+          },
+          "home": {
+              "id": 40,
+              "name": "Utah Jazz",
+              "nickname": "Jazz",
+              "code": "UTA",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/3/3b/Jazz_de_l%27Utah_logo.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 29,
+              "loss": 23,
+              "series": {
+                  "win": 0,
+                  "loss": 1
+              },
+              "linescore": [
+                  "24",
+                  "23",
+                  "26",
+                  "29"
+              ],
+              "points": 102
+          },
+          "home": {
+              "win": 32,
+              "loss": 21,
+              "series": {
+                  "win": 1,
+                  "loss": 0
+              },
+              "linescore": [
+                  "33",
+                  "35",
+                  "37",
+                  "20"
+              ],
+              "points": 125
+          }
+      },
+      "officials": [
+          "Derek Richardson",
+          "Zach Zarba",
+          "Ray Acosta"
+      ],
+      "timesTied": 0,
+      "leadChanges": 0,
+      "nugget": null
+  },
+  {
+      "id": 10359,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-05T02:00:00.000Z",
+          "end": "2022-02-05T04:22:00.000Z",
+          "duration": "2:08"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Ball Arena",
+          "city": "Denver",
+          "state": "CO",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 23,
+              "name": "New Orleans Pelicans",
+              "nickname": "Pelicans",
+              "code": "NOP",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/21/New_Orleans_Pelicans.png/200px-New_Orleans_Pelicans.png"
+          },
+          "home": {
+              "id": 9,
+              "name": "Denver Nuggets",
+              "nickname": "Nuggets",
+              "code": "DEN",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Nuggets_de_Denver_2018.png/180px-Nuggets_de_Denver_2018.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 20,
+              "loss": 32,
+              "series": {
+                  "win": 1,
+                  "loss": 2
+              },
+              "linescore": [
+                  "27",
+                  "24",
+                  "31",
+                  "31"
+              ],
+              "points": 113
+          },
+          "home": {
+              "win": 28,
+              "loss": 24,
+              "series": {
+                  "win": 2,
+                  "loss": 1
+              },
+              "linescore": [
+                  "29",
+                  "23",
+                  "30",
+                  "23"
+              ],
+              "points": 105
+          }
+      },
+      "officials": [
+          "Leon Wood",
+          "Curtis Blair",
+          "John Butler"
+      ],
+      "timesTied": 15,
+      "leadChanges": 18,
+      "nugget": null
+  },
+  {
+      "id": 10360,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-05T03:00:00.000Z",
+          "end": "2022-02-05T05:24:00.000Z",
+          "duration": "2:13"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Moda Center",
+          "city": "Portland",
+          "state": "OR",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 25,
+              "name": "Oklahoma City Thunder",
+              "nickname": "Thunder",
+              "code": "OKC",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Thunder_d%27Oklahoma_City_logo.svg/1200px-Thunder_d%27Oklahoma_City_logo.svg.png"
+          },
+          "home": {
+              "id": 29,
+              "name": "Portland Trail Blazers",
+              "nickname": "Trail Blazers",
+              "code": "POR",
+              "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Portland_Trail_Blazers_logo.svg/1200px-Portland_Trail_Blazers_logo.svg.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 17,
+              "loss": 34,
+              "series": {
+                  "win": 2,
+                  "loss": 0
+              },
+              "linescore": [
+                  "21",
+                  "25",
+                  "29",
+                  "21"
+              ],
+              "points": 96
+          },
+          "home": {
+              "win": 21,
+              "loss": 32,
+              "series": {
+                  "win": 0,
+                  "loss": 2
+              },
+              "linescore": [
+                  "19",
+                  "31",
+                  "26",
+                  "17"
+              ],
+              "points": 93
+          }
+      },
+      "officials": [
+          "Scott Foster",
+          "Eric Dalen",
+          "J.T. Orr"
+      ],
+      "timesTied": 7,
+      "leadChanges": 13,
+      "nugget": null
+  },
+  {
+      "id": 10361,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-05T22:00:00.000Z",
+          "end": "2022-02-06T00:20:00.000Z",
+          "duration": "2:10"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Amway Center",
+          "city": "Orlando",
+          "state": "FL",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 19,
+              "name": "Memphis Grizzlies",
+              "nickname": "Grizzlies",
+              "code": "MEM",
+              "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Memphis_Grizzlies.svg/1200px-Memphis_Grizzlies.svg.png"
+          },
+          "home": {
+              "id": 26,
+              "name": "Orlando Magic",
+              "nickname": "Magic",
+              "code": "ORL",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/b/bd/Orlando_Magic_logo_2010.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 37,
+              "loss": 18,
+              "series": {
+                  "win": 1,
+                  "loss": 0
+              },
+              "linescore": [
+                  "37",
+                  "39",
+                  "32",
+                  "27"
+              ],
+              "points": 135
+          },
+          "home": {
+              "win": 12,
+              "loss": 42,
+              "series": {
+                  "win": 0,
+                  "loss": 1
+              },
+              "linescore": [
+                  "24",
+                  "32",
+                  "25",
+                  "34"
+              ],
+              "points": 115
+          }
+      },
+      "officials": [
+          "Kane Fitzgerald",
+          "Mitchell Ervin",
+          "Brandon Adair"
+      ],
+      "timesTied": 1,
+      "leadChanges": 6,
+      "nugget": null
+  },
+  {
+      "id": 10362,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-06T00:00:00.000Z",
+          "end": "2022-02-06T02:11:00.000Z",
+          "duration": "2:01"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Spectrum Center",
+          "city": "Charlotte",
+          "state": "NC",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 20,
+              "name": "Miami Heat",
+              "nickname": "Heat",
+              "code": "MIA",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/Miami_Heat_-_Logo.svg/1200px-Miami_Heat_-_Logo.svg.png"
+          },
+          "home": {
+              "id": 5,
+              "name": "Charlotte Hornets",
+              "nickname": "Hornets",
+              "code": "CHA",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f3/Hornets_de_Charlotte_logo.svg/1200px-Hornets_de_Charlotte_logo.svg.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 34,
+              "loss": 20,
+              "series": {
+                  "win": 2,
+                  "loss": 0
+              },
+              "linescore": [
+                  "31",
+                  "15",
+                  "35",
+                  "23"
+              ],
+              "points": 104
+          },
+          "home": {
+              "win": 28,
+              "loss": 26,
+              "series": {
+                  "win": 0,
+                  "loss": 2
+              },
+              "linescore": [
+                  "23",
+                  "28",
+                  "8",
+                  "27"
+              ],
+              "points": 86
+          }
+      },
+      "officials": [
+          "Ed Malloy",
+          "Nick Buchert",
+          "Brandon Schwab"
+      ],
+      "timesTied": 8,
+      "leadChanges": 8,
+      "nugget": null
+  },
+  {
+      "id": 10363,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-06T00:00:00.000Z",
+          "end": "2022-02-06T02:13:00.000Z",
+          "duration": "2:03"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Capital One Arena",
+          "city": "Washington",
+          "state": "DC",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 28,
+              "name": "Phoenix Suns",
+              "nickname": "Suns",
+              "code": "PHX",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/5/56/Phoenix_Suns_2013.png"
+          },
+          "home": {
+              "id": 41,
+              "name": "Washington Wizards",
+              "nickname": "Wizards",
+              "code": "WAS",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/archive/d/d6/20161212034849%21Wizards2015.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 42,
+              "loss": 10,
+              "series": {
+                  "win": 2,
+                  "loss": 0
+              },
+              "linescore": [
+                  "33",
+                  "26",
+                  "26",
+                  "10"
+              ],
+              "points": 95
+          },
+          "home": {
+              "win": 24,
+              "loss": 28,
+              "series": {
+                  "win": 0,
+                  "loss": 2
+              },
+              "linescore": [
+                  "21",
+                  "11",
+                  "19",
+                  "29"
+              ],
+              "points": 80
+          }
+      },
+      "officials": [
+          "Tony Brothers",
+          "Tom Washington",
+          "Scott Twardoski"
+      ],
+      "timesTied": 2,
+      "leadChanges": 1,
+      "nugget": null
+  },
+  {
+      "id": 10364,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-06T01:30:00.000Z",
+          "end": "2022-02-06T04:31:00.000Z",
+          "duration": "2:49"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 5,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Crypto.com Arena",
+          "city": "Los Angeles",
+          "state": "CA",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 24,
+              "name": "New York Knicks",
+              "nickname": "Knicks",
+              "code": "NYK",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/d/dc/NY_Knicks_Logo_2011.png"
+          },
+          "home": {
+              "id": 17,
+              "name": "Los Angeles Lakers",
+              "nickname": "Lakers",
+              "code": "LAL",
+              "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/220px-Los_Angeles_Lakers_logo.svg.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 24,
+              "loss": 29,
+              "series": {
+                  "win": 1,
+                  "loss": 1
+              },
+              "linescore": [
+                  "42",
+                  "29",
+                  "13",
+                  "27",
+                  "4"
+              ],
+              "points": 115
+          },
+          "home": {
+              "win": 26,
+              "loss": 28,
+              "series": {
+                  "win": 1,
+                  "loss": 1
+              },
+              "linescore": [
+                  "29",
+                  "27",
+                  "31",
+                  "24",
+                  "11"
+              ],
+              "points": 122
+          }
+      },
+      "officials": [
+          "David Guthrie",
+          "Dedric Taylor",
+          "Justin Van Duyne"
+      ],
+      "timesTied": 5,
+      "leadChanges": 5,
+      "nugget": null
+  },
+  {
+      "id": 10365,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-06T03:00:00.000Z",
+          "end": "2022-02-06T05:19:00.000Z",
+          "duration": "2:08"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Moda Center",
+          "city": "Portland",
+          "state": "OR",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 21,
+              "name": "Milwaukee Bucks",
+              "nickname": "Bucks",
+              "code": "MIL",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/3/34/Bucks2015.png"
+          },
+          "home": {
+              "id": 29,
+              "name": "Portland Trail Blazers",
+              "nickname": "Trail Blazers",
+              "code": "POR",
+              "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Portland_Trail_Blazers_logo.svg/1200px-Portland_Trail_Blazers_logo.svg.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 33,
+              "loss": 21,
+              "series": {
+                  "win": 1,
+                  "loss": 0
+              },
+              "linescore": [
+                  "34",
+                  "36",
+                  "37",
+                  "30"
+              ],
+              "points": 137
+          },
+          "home": {
+              "win": 21,
+              "loss": 33,
+              "series": {
+                  "win": 0,
+                  "loss": 1
+              },
+              "linescore": [
+                  "26",
+                  "28",
+                  "21",
+                  "33"
+              ],
+              "points": 108
+          }
+      },
+      "officials": [
+          "Bill Kennedy",
+          "Aaron Smith",
+          "Jacyn Goble"
+      ],
+      "timesTied": 0,
+      "leadChanges": 4,
+      "nugget": null
+  },
+  {
+      "id": 10366,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-06T03:00:00.000Z",
+          "end": "2022-02-06T05:17:00.000Z",
+          "duration": "2:05"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Golden 1 Center",
+          "city": "Sacramento",
+          "state": "CA",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 25,
+              "name": "Oklahoma City Thunder",
+              "nickname": "Thunder",
+              "code": "OKC",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Thunder_d%27Oklahoma_City_logo.svg/1200px-Thunder_d%27Oklahoma_City_logo.svg.png"
+          },
+          "home": {
+              "id": 30,
+              "name": "Sacramento Kings",
+              "nickname": "Kings",
+              "code": "SAC",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Kings_de_Sacramento_logo.svg/1200px-Kings_de_Sacramento_logo.svg.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 17,
+              "loss": 35,
+              "series": {
+                  "win": 1,
+                  "loss": 2
+              },
+              "linescore": [
+                  "30",
+                  "27",
+                  "22",
+                  "24"
+              ],
+              "points": 103
+          },
+          "home": {
+              "win": 20,
+              "loss": 35,
+              "series": {
+                  "win": 2,
+                  "loss": 1
+              },
+              "linescore": [
+                  "36",
+                  "28",
+                  "25",
+                  "24"
+              ],
+              "points": 113
+          }
+      },
+      "officials": [
+          "Bennie Adams",
+          "Josh Tiven",
+          "Lauren Holtkamp"
+      ],
+      "timesTied": 5,
+      "leadChanges": 2,
+      "nugget": null
+  },
+  {
+      "id": 10367,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-06T20:30:00.000Z",
+          "end": "2022-02-06T23:04:00.000Z",
+          "duration": "2:15"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "United Center",
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 27,
+              "name": "Philadelphia 76ers",
+              "nickname": "76ers",
+              "code": "PHI",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/4/48/76ers_2016.png"
+          },
+          "home": {
+              "id": 6,
+              "name": "Chicago Bulls",
+              "nickname": "Bulls",
+              "code": "CHI",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Bulls_de_Chicago_logo.svg/1200px-Bulls_de_Chicago_logo.svg.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 32,
+              "loss": 21,
+              "series": {
+                  "win": 3,
+                  "loss": 0
+              },
+              "linescore": [
+                  "34",
+                  "27",
+                  "28",
+                  "30"
+              ],
+              "points": 119
+          },
+          "home": {
+              "win": 33,
+              "loss": 20,
+              "series": {
+                  "win": 0,
+                  "loss": 3
+              },
+              "linescore": [
+                  "26",
+                  "26",
+                  "29",
+                  "27"
+              ],
+              "points": 108
+          }
+      },
+      "officials": [
+          "Matt Boland",
+          "Curtis Blair",
+          "Marat Kogut"
+      ],
+      "timesTied": 1,
+      "leadChanges": 6,
+      "nugget": null
+  },
+  {
+      "id": 10368,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-06T20:30:00.000Z",
+          "end": "2022-02-06T22:54:00.000Z",
+          "duration": "2:09"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Target Center",
+          "city": "Minneapolis",
+          "state": "MN",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 10,
+              "name": "Detroit Pistons",
+              "nickname": "Pistons",
+              "code": "DET",
+              "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Detroit_Pistons_primary_logo_2017.png/150px-Detroit_Pistons_primary_logo_2017.png"
+          },
+          "home": {
+              "id": 22,
+              "name": "Minnesota Timberwolves",
+              "nickname": "Timberwolves",
+              "code": "MIN",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d9/Timberwolves_du_Minnesota_logo_2017.png/200px-Timberwolves_du_Minnesota_logo_2017.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 12,
+              "loss": 41,
+              "series": {
+                  "win": 0,
+                  "loss": 2
+              },
+              "linescore": [
+                  "26",
+                  "30",
+                  "23",
+                  "26"
+              ],
+              "points": 105
+          },
+          "home": {
+              "win": 28,
+              "loss": 25,
+              "series": {
+                  "win": 2,
+                  "loss": 0
+              },
+              "linescore": [
+                  "24",
+                  "31",
+                  "28",
+                  "35"
+              ],
+              "points": 118
+          }
+      },
+      "officials": [
+          "Zach Zarba",
+          "Eric Dalen",
+          "Matt Myers"
+      ],
+      "timesTied": 7,
+      "leadChanges": 17,
+      "nugget": null
+  },
+  {
+      "id": 10369,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-06T20:30:00.000Z",
+          "end": "2022-02-06T22:52:00.000Z",
+          "duration": "2:07"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Ball Arena",
+          "city": "Denver",
+          "state": "CO",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 4,
+              "name": "Brooklyn Nets",
+              "nickname": "Nets",
+              "code": "BKN",
+              "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Brooklyn_Nets_newlogo.svg/130px-Brooklyn_Nets_newlogo.svg.png"
+          },
+          "home": {
+              "id": 9,
+              "name": "Denver Nuggets",
+              "nickname": "Nuggets",
+              "code": "DEN",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Nuggets_de_Denver_2018.png/180px-Nuggets_de_Denver_2018.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 29,
+              "loss": 24,
+              "series": {
+                  "win": 0,
+                  "loss": 2
+              },
+              "linescore": [
+                  "40",
+                  "35",
+                  "16",
+                  "13"
+              ],
+              "points": 104
+          },
+          "home": {
+              "win": 29,
+              "loss": 24,
+              "series": {
+                  "win": 2,
+                  "loss": 0
+              },
+              "linescore": [
+                  "39",
+                  "37",
+                  "31",
+                  "17"
+              ],
+              "points": 124
+          }
+      },
+      "officials": [
+          "Kevin Scott",
+          "Gediminas Petraitis",
+          "Tyler Ford"
+      ],
+      "timesTied": 4,
+      "leadChanges": 4,
+      "nugget": null
+  },
+  {
+      "id": 10370,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-06T23:00:00.000Z",
+          "end": "2022-02-07T01:36:00.000Z",
+          "duration": "2:21"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Rocket Mortgage FieldHouse",
+          "city": "Cleveland",
+          "state": "OH",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 15,
+              "name": "Indiana Pacers",
+              "nickname": "Pacers",
+              "code": "IND",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/Pacers_de_l%27Indiana_logo.svg/1180px-Pacers_de_l%27Indiana_logo.svg.png"
+          },
+          "home": {
+              "id": 7,
+              "name": "Cleveland Cavaliers",
+              "nickname": "Cavaliers",
+              "code": "CLE",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/06/Cavs_de_Cleveland_logo_2017.png/150px-Cavs_de_Cleveland_logo_2017.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 19,
+              "loss": 36,
+              "series": {
+                  "win": 0,
+                  "loss": 2
+              },
+              "linescore": [
+                  "27",
+                  "20",
+                  "21",
+                  "17"
+              ],
+              "points": 85
+          },
+          "home": {
+              "win": 33,
+              "loss": 21,
+              "series": {
+                  "win": 2,
+                  "loss": 0
+              },
+              "linescore": [
+                  "12",
+                  "24",
+                  "25",
+                  "37"
+              ],
+              "points": 98
+          }
+      },
+      "officials": [
+          "Pat Fraher",
+          "Mark Lindsay",
+          "Jason Goldenberg"
+      ],
+      "timesTied": 0,
+      "leadChanges": 1,
+      "nugget": null
+  },
+  {
+      "id": 10371,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-06T23:00:00.000Z",
+          "end": "2022-02-07T01:17:00.000Z",
+          "duration": "2:06"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Amway Center",
+          "city": "Orlando",
+          "state": "FL",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 2,
+              "name": "Boston Celtics",
+              "nickname": "Celtics",
+              "code": "BOS",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1024px-Celtics_de_Boston_logo.svg.png"
+          },
+          "home": {
+              "id": 26,
+              "name": "Orlando Magic",
+              "nickname": "Magic",
+              "code": "ORL",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/b/bd/Orlando_Magic_logo_2010.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 30,
+              "loss": 25,
+              "series": {
+                  "win": 3,
+                  "loss": 0
+              },
+              "linescore": [
+                  "21",
+                  "28",
+                  "29",
+                  "38"
+              ],
+              "points": 116
+          },
+          "home": {
+              "win": 12,
+              "loss": 43,
+              "series": {
+                  "win": 0,
+                  "loss": 3
+              },
+              "linescore": [
+                  "15",
+                  "24",
+                  "22",
+                  "22"
+              ],
+              "points": 83
+          }
+      },
+      "officials": [
+          "Marc Davis",
+          "Nick Buchert",
+          "Brandon Schwab"
+      ],
+      "timesTied": 0,
+      "leadChanges": 0,
+      "nugget": null
+  },
+  {
+      "id": 10372,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-06T23:00:00.000Z",
+          "end": "2022-02-07T01:24:00.000Z",
+          "duration": "2:15"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "American Airlines Center",
+          "city": "Dallas",
+          "state": "TX",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 1,
+              "name": "Atlanta Hawks",
+              "nickname": "Hawks",
+              "code": "ATL",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png"
+          },
+          "home": {
+              "id": 8,
+              "name": "Dallas Mavericks",
+              "nickname": "Mavericks",
+              "code": "DAL",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b8/Mavericks_de_Dallas_logo.svg/150px-Mavericks_de_Dallas_logo.svg.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 25,
+              "loss": 28,
+              "series": {
+                  "win": 1,
+                  "loss": 1
+              },
+              "linescore": [
+                  "26",
+                  "24",
+                  "26",
+                  "18"
+              ],
+              "points": 94
+          },
+          "home": {
+              "win": 31,
+              "loss": 23,
+              "series": {
+                  "win": 1,
+                  "loss": 1
+              },
+              "linescore": [
+                  "29",
+                  "25",
+                  "26",
+                  "23"
+              ],
+              "points": 103
+          }
+      },
+      "officials": [
+          "John Goble",
+          "Kevin Cutler",
+          "Brent Barnaky"
+      ],
+      "timesTied": 9,
+      "leadChanges": 6,
+      "nugget": null
+  },
+  {
+      "id": 10373,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-07T00:00:00.000Z",
+          "end": "2022-02-07T02:23:00.000Z",
+          "duration": "2:12"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Toyota Center",
+          "city": "Houston",
+          "state": "TX",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 23,
+              "name": "New Orleans Pelicans",
+              "nickname": "Pelicans",
+              "code": "NOP",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/21/New_Orleans_Pelicans.png/200px-New_Orleans_Pelicans.png"
+          },
+          "home": {
+              "id": 14,
+              "name": "Houston Rockets",
+              "nickname": "Rockets",
+              "code": "HOU",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/de/Houston_Rockets_logo_2003.png/330px-Houston_Rockets_logo_2003.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 21,
+              "loss": 32,
+              "series": {
+                  "win": 1,
+                  "loss": 1
+              },
+              "linescore": [
+                  "26",
+                  "23",
+                  "38",
+                  "33"
+              ],
+              "points": 120
+          },
+          "home": {
+              "win": 15,
+              "loss": 38,
+              "series": {
+                  "win": 1,
+                  "loss": 1
+              },
+              "linescore": [
+                  "21",
+                  "33",
+                  "23",
+                  "30"
+              ],
+              "points": 107
+          }
+      },
+      "officials": [
+          "Brian Forte",
+          "Jonathan Sterling",
+          "Danielle Scott"
+      ],
+      "timesTied": 10,
+      "leadChanges": 9,
+      "nugget": null
+  },
+  {
+      "id": 10374,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-07T02:00:00.000Z",
+          "end": "2022-02-07T04:26:00.000Z",
+          "duration": "2:09"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Crypto.com Arena",
+          "city": "Los Angeles",
+          "state": "CA",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 21,
+              "name": "Milwaukee Bucks",
+              "nickname": "Bucks",
+              "code": "MIL",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/3/34/Bucks2015.png"
+          },
+          "home": {
+              "id": 16,
+              "name": "LA Clippers",
+              "nickname": "Clippers",
+              "code": "LAC",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/d/d6/Los_Angeles_Clippers_logo_2010.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 34,
+              "loss": 21,
+              "series": {
+                  "win": 1,
+                  "loss": 0
+              },
+              "linescore": [
+                  "28",
+                  "32",
+                  "39",
+                  "38"
+              ],
+              "points": 137
+          },
+          "home": {
+              "win": 27,
+              "loss": 28,
+              "series": {
+                  "win": 0,
+                  "loss": 1
+              },
+              "linescore": [
+                  "32",
+                  "19",
+                  "30",
+                  "32"
+              ],
+              "points": 113
+          }
+      },
+      "officials": [
+          "Scott Foster",
+          "Brett Nansel",
+          "Ray Acosta"
+      ],
+      "timesTied": 3,
+      "leadChanges": 11,
+      "nugget": null
+  },
+  {
+      "id": 10375,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-08T00:00:00.000Z",
+          "end": "2022-02-08T02:19:00.000Z",
+          "duration": "2:09"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Spectrum Center",
+          "city": "Charlotte",
+          "state": "NC",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 38,
+              "name": "Toronto Raptors",
+              "nickname": "Raptors",
+              "code": "TOR",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png"
+          },
+          "home": {
+              "id": 5,
+              "name": "Charlotte Hornets",
+              "nickname": "Hornets",
+              "code": "CHA",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f3/Hornets_de_Charlotte_logo.svg/1200px-Hornets_de_Charlotte_logo.svg.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 29,
+              "loss": 23,
+              "series": {
+                  "win": 2,
+                  "loss": 0
+              },
+              "linescore": [
+                  "35",
+                  "21",
+                  "24",
+                  "36"
+              ],
+              "points": 116
+          },
+          "home": {
+              "win": 28,
+              "loss": 27,
+              "series": {
+                  "win": 0,
+                  "loss": 2
+              },
+              "linescore": [
+                  "21",
+                  "20",
+                  "34",
+                  "26"
+              ],
+              "points": 101
+          }
+      },
+      "officials": [
+          "Marc Davis",
+          "Justin Van Duyne",
+          "Brandon Adair"
+      ],
+      "timesTied": 2,
+      "leadChanges": 1,
+      "nugget": null
+  },
+  {
+      "id": 10376,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-08T00:00:00.000Z",
+          "end": "2022-02-08T02:23:00.000Z",
+          "duration": "2:13"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Capital One Arena",
+          "city": "Washington",
+          "state": "DC",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 20,
+              "name": "Miami Heat",
+              "nickname": "Heat",
+              "code": "MIA",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/Miami_Heat_-_Logo.svg/1200px-Miami_Heat_-_Logo.svg.png"
+          },
+          "home": {
+              "id": 41,
+              "name": "Washington Wizards",
+              "nickname": "Wizards",
+              "code": "WAS",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/archive/d/d6/20161212034849%21Wizards2015.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 35,
+              "loss": 20,
+              "series": {
+                  "win": 3,
+                  "loss": 1
+              },
+              "linescore": [
+                  "39",
+                  "21",
+                  "31",
+                  "30"
+              ],
+              "points": 121
+          },
+          "home": {
+              "win": 24,
+              "loss": 29,
+              "series": {
+                  "win": 1,
+                  "loss": 3
+              },
+              "linescore": [
+                  "24",
+                  "29",
+                  "17",
+                  "30"
+              ],
+              "points": 100
+          }
+      },
+      "officials": [
+          "Derek Richardson",
+          "Eric Lewis",
+          "Mitchell Ervin"
+      ],
+      "timesTied": 1,
+      "leadChanges": 0,
+      "nugget": null
+  },
+  {
+      "id": 10377,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-08T01:00:00.000Z",
+          "end": "2022-02-08T03:22:00.000Z",
+          "duration": "2:11"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "United Center",
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 28,
+              "name": "Phoenix Suns",
+              "nickname": "Suns",
+              "code": "PHX",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/5/56/Phoenix_Suns_2013.png"
+          },
+          "home": {
+              "id": 6,
+              "name": "Chicago Bulls",
+              "nickname": "Bulls",
+              "code": "CHI",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Bulls_de_Chicago_logo.svg/1200px-Bulls_de_Chicago_logo.svg.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 43,
+              "loss": 10,
+              "series": {
+                  "win": 1,
+                  "loss": 0
+              },
+              "linescore": [
+                  "36",
+                  "31",
+                  "35",
+                  "25"
+              ],
+              "points": 127
+          },
+          "home": {
+              "win": 33,
+              "loss": 21,
+              "series": {
+                  "win": 0,
+                  "loss": 1
+              },
+              "linescore": [
+                  "29",
+                  "20",
+                  "34",
+                  "41"
+              ],
+              "points": 124
+          }
+      },
+      "officials": [
+          "Leon Wood",
+          "David Guthrie",
+          "Evan Scott"
+      ],
+      "timesTied": 2,
+      "leadChanges": 1,
+      "nugget": null
+  },
+  {
+      "id": 10378,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-08T01:00:00.000Z",
+          "end": "2022-02-08T03:20:00.000Z",
+          "duration": "2:08"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Paycom Center",
+          "city": "Oklahoma City",
+          "state": "OK",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 11,
+              "name": "Golden State Warriors",
+              "nickname": "Warriors",
+              "code": "GSW",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/de/Warriors_de_Golden_State_logo.svg/1200px-Warriors_de_Golden_State_logo.svg.png"
+          },
+          "home": {
+              "id": 25,
+              "name": "Oklahoma City Thunder",
+              "nickname": "Thunder",
+              "code": "OKC",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Thunder_d%27Oklahoma_City_logo.svg/1200px-Thunder_d%27Oklahoma_City_logo.svg.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 41,
+              "loss": 13,
+              "series": {
+                  "win": 3,
+                  "loss": 0
+              },
+              "linescore": [
+                  "20",
+                  "36",
+                  "29",
+                  "25"
+              ],
+              "points": 110
+          },
+          "home": {
+              "win": 17,
+              "loss": 36,
+              "series": {
+                  "win": 0,
+                  "loss": 3
+              },
+              "linescore": [
+                  "23",
+                  "23",
+                  "26",
+                  "26"
+              ],
+              "points": 98
+          }
+      },
+      "officials": [
+          "Ed Malloy",
+          "Natalie Sago",
+          "Danielle Scott"
+      ],
+      "timesTied": 4,
+      "leadChanges": 5,
+      "nugget": null
+  },
+  {
+      "id": 10379,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-08T02:00:00.000Z",
+          "end": "2022-02-08T04:33:00.000Z",
+          "duration": "2:24"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Vivint Arena",
+          "city": "Salt Lake City",
+          "state": "UT",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 24,
+              "name": "New York Knicks",
+              "nickname": "Knicks",
+              "code": "NYK",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/d/dc/NY_Knicks_Logo_2011.png"
+          },
+          "home": {
+              "id": 40,
+              "name": "Utah Jazz",
+              "nickname": "Jazz",
+              "code": "UTA",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/3/3b/Jazz_de_l%27Utah_logo.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 24,
+              "loss": 30,
+              "series": {
+                  "win": 0,
+                  "loss": 1
+              },
+              "linescore": [
+                  "28",
+                  "29",
+                  "29",
+                  "18"
+              ],
+              "points": 104
+          },
+          "home": {
+              "win": 33,
+              "loss": 21,
+              "series": {
+                  "win": 1,
+                  "loss": 0
+              },
+              "linescore": [
+                  "28",
+                  "31",
+                  "23",
+                  "31"
+              ],
+              "points": 113
+          }
+      },
+      "officials": [
+          "Josh Tiven",
+          "Lauren Holtkamp",
+          "Aaron Smith"
+      ],
+      "timesTied": 9,
+      "leadChanges": 15,
+      "nugget": null
+  },
+  {
+      "id": 10380,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-09T00:00:00.000Z",
+          "end": "2022-02-09T02:24:00.000Z",
+          "duration": "2:12"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Wells Fargo Center",
+          "city": "Philadelphia",
+          "state": "PA",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 28,
+              "name": "Phoenix Suns",
+              "nickname": "Suns",
+              "code": "PHX",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/5/56/Phoenix_Suns_2013.png"
+          },
+          "home": {
+              "id": 27,
+              "name": "Philadelphia 76ers",
+              "nickname": "76ers",
+              "code": "PHI",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/4/48/76ers_2016.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 44,
+              "loss": 10,
+              "series": {
+                  "win": 1,
+                  "loss": 0
+              },
+              "linescore": [
+                  "29",
+                  "26",
+                  "28",
+                  "31"
+              ],
+              "points": 114
+          },
+          "home": {
+              "win": 32,
+              "loss": 22,
+              "series": {
+                  "win": 0,
+                  "loss": 1
+              },
+              "linescore": [
+                  "25",
+                  "34",
+                  "25",
+                  "25"
+              ],
+              "points": 109
+          }
+      },
+      "officials": [
+          "John Goble",
+          "Eric Dalen",
+          "Brandon Adair"
+      ],
+      "timesTied": 8,
+      "leadChanges": 16,
+      "nugget": null
+  },
+  {
+      "id": 10381,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-09T00:30:00.000Z",
+          "end": "2022-02-09T02:48:00.000Z",
+          "duration": "2:08"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "State Farm Arena",
+          "city": "Atlanta",
+          "state": "GA",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 15,
+              "name": "Indiana Pacers",
+              "nickname": "Pacers",
+              "code": "IND",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/Pacers_de_l%27Indiana_logo.svg/1180px-Pacers_de_l%27Indiana_logo.svg.png"
+          },
+          "home": {
+              "id": 1,
+              "name": "Atlanta Hawks",
+              "nickname": "Hawks",
+              "code": "ATL",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 19,
+              "loss": 37,
+              "series": {
+                  "win": 0,
+                  "loss": 2
+              },
+              "linescore": [
+                  "22",
+                  "28",
+                  "25",
+                  "37"
+              ],
+              "points": 112
+          },
+          "home": {
+              "win": 26,
+              "loss": 28,
+              "series": {
+                  "win": 2,
+                  "loss": 0
+              },
+              "linescore": [
+                  "40",
+                  "36",
+                  "30",
+                  "27"
+              ],
+              "points": 133
+          }
+      },
+      "officials": [
+          "Zach Zarba",
+          "Mitchell Ervin",
+          "Justin Van Duyne"
+      ],
+      "timesTied": 1,
+      "leadChanges": 0,
+      "nugget": null
+  },
+  {
+      "id": 10382,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-09T00:30:00.000Z",
+          "end": "2022-02-09T02:42:00.000Z",
+          "duration": "2:06"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Barclays Center",
+          "city": "Brooklyn",
+          "state": "NY",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 2,
+              "name": "Boston Celtics",
+              "nickname": "Celtics",
+              "code": "BOS",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1024px-Celtics_de_Boston_logo.svg.png"
+          },
+          "home": {
+              "id": 4,
+              "name": "Brooklyn Nets",
+              "nickname": "Nets",
+              "code": "BKN",
+              "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Brooklyn_Nets_newlogo.svg/130px-Brooklyn_Nets_newlogo.svg.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 31,
+              "loss": 25,
+              "series": {
+                  "win": 1,
+                  "loss": 1
+              },
+              "linescore": [
+                  "35",
+                  "34",
+                  "28",
+                  "29"
+              ],
+              "points": 126
+          },
+          "home": {
+              "win": 29,
+              "loss": 25,
+              "series": {
+                  "win": 1,
+                  "loss": 1
+              },
+              "linescore": [
+                  "16",
+                  "27",
+                  "28",
+                  "20"
+              ],
+              "points": 91
+          }
+      },
+      "officials": [
+          "JB DeRosa",
+          "Pat Fraher",
+          "Andy Nagy"
+      ],
+      "timesTied": 0,
+      "leadChanges": 0,
+      "nugget": null
+  },
+  {
+      "id": 10383,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-09T01:00:00.000Z",
+          "end": "2022-02-09T03:21:00.000Z",
+          "duration": "2:11"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "FedExForum",
+          "city": "Memphis",
+          "state": "TN",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 16,
+              "name": "LA Clippers",
+              "nickname": "Clippers",
+              "code": "LAC",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/d/d6/Los_Angeles_Clippers_logo_2010.png"
+          },
+          "home": {
+              "id": 19,
+              "name": "Memphis Grizzlies",
+              "nickname": "Grizzlies",
+              "code": "MEM",
+              "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Memphis_Grizzlies.svg/1200px-Memphis_Grizzlies.svg.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 27,
+              "loss": 29,
+              "series": {
+                  "win": 0,
+                  "loss": 4
+              },
+              "linescore": [
+                  "27",
+                  "28",
+                  "19",
+                  "35"
+              ],
+              "points": 109
+          },
+          "home": {
+              "win": 38,
+              "loss": 18,
+              "series": {
+                  "win": 4,
+                  "loss": 0
+              },
+              "linescore": [
+                  "38",
+                  "32",
+                  "34",
+                  "31"
+              ],
+              "points": 135
+          }
+      },
+      "officials": [
+          "Bill Kennedy",
+          "Ben Taylor",
+          "Matt Myers"
+      ],
+      "timesTied": 6,
+      "leadChanges": 4,
+      "nugget": null
+  },
+  {
+      "id": 10384,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-09T01:00:00.000Z",
+          "end": "2022-02-09T03:26:00.000Z",
+          "duration": "2:16"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Smoothie King Center",
+          "city": "New Orleans",
+          "state": "LA",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 14,
+              "name": "Houston Rockets",
+              "nickname": "Rockets",
+              "code": "HOU",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/de/Houston_Rockets_logo_2003.png/330px-Houston_Rockets_logo_2003.png"
+          },
+          "home": {
+              "id": 23,
+              "name": "New Orleans Pelicans",
+              "nickname": "Pelicans",
+              "code": "NOP",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/21/New_Orleans_Pelicans.png/200px-New_Orleans_Pelicans.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 15,
+              "loss": 39,
+              "series": {
+                  "win": 1,
+                  "loss": 2
+              },
+              "linescore": [
+                  "30",
+                  "23",
+                  "23",
+                  "21"
+              ],
+              "points": 97
+          },
+          "home": {
+              "win": 22,
+              "loss": 32,
+              "series": {
+                  "win": 2,
+                  "loss": 1
+              },
+              "linescore": [
+                  "35",
+                  "29",
+                  "22",
+                  "24"
+              ],
+              "points": 110
+          }
+      },
+      "officials": [
+          "Mark Lindsay",
+          "Nick Buchert",
+          "Phenizee Ransom"
+      ],
+      "timesTied": 0,
+      "leadChanges": 1,
+      "nugget": null
+  },
+  {
+      "id": 10385,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-09T01:30:00.000Z",
+          "end": "2022-02-09T03:48:00.000Z",
+          "duration": "2:08"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "American Airlines Center",
+          "city": "Dallas",
+          "state": "TX",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 10,
+              "name": "Detroit Pistons",
+              "nickname": "Pistons",
+              "code": "DET",
+              "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Detroit_Pistons_primary_logo_2017.png/150px-Detroit_Pistons_primary_logo_2017.png"
+          },
+          "home": {
+              "id": 8,
+              "name": "Dallas Mavericks",
+              "nickname": "Mavericks",
+              "code": "DAL",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b8/Mavericks_de_Dallas_logo.svg/150px-Mavericks_de_Dallas_logo.svg.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 12,
+              "loss": 42,
+              "series": {
+                  "win": 0,
+                  "loss": 1
+              },
+              "linescore": [
+                  "26",
+                  "25",
+                  "20",
+                  "15"
+              ],
+              "points": 86
+          },
+          "home": {
+              "win": 32,
+              "loss": 23,
+              "series": {
+                  "win": 1,
+                  "loss": 0
+              },
+              "linescore": [
+                  "36",
+                  "29",
+                  "33",
+                  "18"
+              ],
+              "points": 116
+          }
+      },
+      "officials": [
+          "Brian Forte",
+          "Jason Goldenberg",
+          "Jacyn Goble"
+      ],
+      "timesTied": 5,
+      "leadChanges": 6,
+      "nugget": null
+  },
+  {
+      "id": 10386,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-09T02:00:00.000Z",
+          "end": "2022-02-09T04:19:00.000Z",
+          "duration": "2:09"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Ball Arena",
+          "city": "Denver",
+          "state": "CO",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 24,
+              "name": "New York Knicks",
+              "nickname": "Knicks",
+              "code": "NYK",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/d/dc/NY_Knicks_Logo_2011.png"
+          },
+          "home": {
+              "id": 9,
+              "name": "Denver Nuggets",
+              "nickname": "Nuggets",
+              "code": "DEN",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Nuggets_de_Denver_2018.png/180px-Nuggets_de_Denver_2018.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 24,
+              "loss": 31,
+              "series": {
+                  "win": 0,
+                  "loss": 2
+              },
+              "linescore": [
+                  "36",
+                  "24",
+                  "34",
+                  "21"
+              ],
+              "points": 115
+          },
+          "home": {
+              "win": 30,
+              "loss": 24,
+              "series": {
+                  "win": 2,
+                  "loss": 0
+              },
+              "linescore": [
+                  "40",
+                  "43",
+                  "28",
+                  "21"
+              ],
+              "points": 132
+          }
+      },
+      "officials": [
+          "James Capers",
+          "Kevin Cutler",
+          "Jonathan Sterling"
+      ],
+      "timesTied": 5,
+      "leadChanges": 7,
+      "nugget": null
+  },
+  {
+      "id": 10387,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-09T03:00:00.000Z",
+          "end": "2022-02-09T05:34:00.000Z",
+          "duration": "2:26"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Crypto.com Arena",
+          "city": "Los Angeles",
+          "state": "CA",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 21,
+              "name": "Milwaukee Bucks",
+              "nickname": "Bucks",
+              "code": "MIL",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/3/34/Bucks2015.png"
+          },
+          "home": {
+              "id": 17,
+              "name": "Los Angeles Lakers",
+              "nickname": "Lakers",
+              "code": "LAL",
+              "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/220px-Los_Angeles_Lakers_logo.svg.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 35,
+              "loss": 21,
+              "series": {
+                  "win": 2,
+                  "loss": 0
+              },
+              "linescore": [
+                  "38",
+                  "40",
+                  "31",
+                  "22"
+              ],
+              "points": 131
+          },
+          "home": {
+              "win": 26,
+              "loss": 29,
+              "series": {
+                  "win": 0,
+                  "loss": 2
+              },
+              "linescore": [
+                  "24",
+                  "32",
+                  "29",
+                  "31"
+              ],
+              "points": 116
+          }
+      },
+      "officials": [
+          "Josh Tiven",
+          "Scott Twardoski",
+          "Gediminas Petraitis"
+      ],
+      "timesTied": 2,
+      "leadChanges": 8,
+      "nugget": null
+  },
+  {
+      "id": 10388,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-09T03:00:00.000Z",
+          "end": "2022-02-09T05:09:00.000Z",
+          "duration": "1:58"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Moda Center",
+          "city": "Portland",
+          "state": "OR",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 26,
+              "name": "Orlando Magic",
+              "nickname": "Magic",
+              "code": "ORL",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/b/bd/Orlando_Magic_logo_2010.png"
+          },
+          "home": {
+              "id": 29,
+              "name": "Portland Trail Blazers",
+              "nickname": "Trail Blazers",
+              "code": "POR",
+              "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Portland_Trail_Blazers_logo.svg/1200px-Portland_Trail_Blazers_logo.svg.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 13,
+              "loss": 43,
+              "series": {
+                  "win": 1,
+                  "loss": 1
+              },
+              "linescore": [
+                  "32",
+                  "30",
+                  "21",
+                  "30"
+              ],
+              "points": 113
+          },
+          "home": {
+              "win": 21,
+              "loss": 34,
+              "series": {
+                  "win": 1,
+                  "loss": 1
+              },
+              "linescore": [
+                  "28",
+                  "19",
+                  "32",
+                  "16"
+              ],
+              "points": 95
+          }
+      },
+      "officials": [
+          "Tyler Ford",
+          "Ray Acosta",
+          "Nate Green"
+      ],
+      "timesTied": 4,
+      "leadChanges": 9,
+      "nugget": null
+  },
+  {
+      "id": 10389,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-09T03:00:00.000Z",
+          "end": "2022-02-09T05:19:00.000Z",
+          "duration": "2:07"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Golden 1 Center",
+          "city": "Sacramento",
+          "state": "CA",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 22,
+              "name": "Minnesota Timberwolves",
+              "nickname": "Timberwolves",
+              "code": "MIN",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d9/Timberwolves_du_Minnesota_logo_2017.png/200px-Timberwolves_du_Minnesota_logo_2017.png"
+          },
+          "home": {
+              "id": 30,
+              "name": "Sacramento Kings",
+              "nickname": "Kings",
+              "code": "SAC",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Kings_de_Sacramento_logo.svg/1200px-Kings_de_Sacramento_logo.svg.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 29,
+              "loss": 25,
+              "series": {
+                  "win": 2,
+                  "loss": 0
+              },
+              "linescore": [
+                  "35",
+                  "38",
+                  "29",
+                  "32"
+              ],
+              "points": 134
+          },
+          "home": {
+              "win": 20,
+              "loss": 36,
+              "series": {
+                  "win": 0,
+                  "loss": 2
+              },
+              "linescore": [
+                  "35",
+                  "32",
+                  "23",
+                  "24"
+              ],
+              "points": 114
+          }
+      },
+      "officials": [
+          "Brent Barnaky",
+          "Brett Nansel",
+          "Kevin Scott"
+      ],
+      "timesTied": 5,
+      "leadChanges": 15,
+      "nugget": null
+  },
+  {
+      "id": 10390,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-10T00:00:00.000Z",
+          "end": "2022-02-10T02:11:00.000Z",
+          "duration": "2:01"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Rocket Mortgage FieldHouse",
+          "city": "Cleveland",
+          "state": "OH",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 31,
+              "name": "San Antonio Spurs",
+              "nickname": "Spurs",
+              "code": "SAS",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png"
+          },
+          "home": {
+              "id": 7,
+              "name": "Cleveland Cavaliers",
+              "nickname": "Cavaliers",
+              "code": "CLE",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/06/Cavs_de_Cleveland_logo_2017.png/150px-Cavs_de_Cleveland_logo_2017.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 20,
+              "loss": 35,
+              "series": {
+                  "win": 0,
+                  "loss": 2
+              },
+              "linescore": [
+                  "30",
+                  "18",
+                  "25",
+                  "19"
+              ],
+              "points": 92
+          },
+          "home": {
+              "win": 34,
+              "loss": 21,
+              "series": {
+                  "win": 2,
+                  "loss": 0
+              },
+              "linescore": [
+                  "29",
+                  "28",
+                  "27",
+                  "21"
+              ],
+              "points": 105
+          }
+      },
+      "officials": [
+          "Ed Malloy",
+          "Aaron Smith",
+          "Natalie Sago"
+      ],
+      "timesTied": 0,
+      "leadChanges": 7,
+      "nugget": null
+  },
+  {
+      "id": 10391,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-10T00:30:00.000Z",
+          "end": "2022-02-10T02:58:00.000Z",
+          "duration": "2:13"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Spectrum Center",
+          "city": "Charlotte",
+          "state": "NC",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 6,
+              "name": "Chicago Bulls",
+              "nickname": "Bulls",
+              "code": "CHI",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Bulls_de_Chicago_logo.svg/1200px-Bulls_de_Chicago_logo.svg.png"
+          },
+          "home": {
+              "id": 5,
+              "name": "Charlotte Hornets",
+              "nickname": "Hornets",
+              "code": "CHA",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f3/Hornets_de_Charlotte_logo.svg/1200px-Hornets_de_Charlotte_logo.svg.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 34,
+              "loss": 21,
+              "series": {
+                  "win": 2,
+                  "loss": 0
+              },
+              "linescore": [
+                  "28",
+                  "30",
+                  "31",
+                  "32"
+              ],
+              "points": 121
+          },
+          "home": {
+              "win": 28,
+              "loss": 28,
+              "series": {
+                  "win": 0,
+                  "loss": 2
+              },
+              "linescore": [
+                  "29",
+                  "16",
+                  "31",
+                  "33"
+              ],
+              "points": 109
+          }
+      },
+      "officials": [
+          "Michael Smith",
+          "Derek Richardson",
+          "Courtney Kirkland"
+      ],
+      "timesTied": 3,
+      "leadChanges": 7,
+      "nugget": null
+  },
+  {
+      "id": 10392,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-10T01:00:00.000Z",
+          "end": "2022-02-10T03:07:00.000Z",
+          "duration": "1:58"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Paycom Center",
+          "city": "Oklahoma City",
+          "state": "OK",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 38,
+              "name": "Toronto Raptors",
+              "nickname": "Raptors",
+              "code": "TOR",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png"
+          },
+          "home": {
+              "id": 25,
+              "name": "Oklahoma City Thunder",
+              "nickname": "Thunder",
+              "code": "OKC",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Thunder_d%27Oklahoma_City_logo.svg/1200px-Thunder_d%27Oklahoma_City_logo.svg.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 30,
+              "loss": 23,
+              "series": {
+                  "win": 1,
+                  "loss": 1
+              },
+              "linescore": [
+                  "34",
+                  "25",
+                  "28",
+                  "30"
+              ],
+              "points": 117
+          },
+          "home": {
+              "win": 17,
+              "loss": 37,
+              "series": {
+                  "win": 1,
+                  "loss": 1
+              },
+              "linescore": [
+                  "22",
+                  "29",
+                  "21",
+                  "26"
+              ],
+              "points": 98
+          }
+      },
+      "officials": [
+          "Karl Lane",
+          "Dedric Taylor",
+          "Evan Scott"
+      ],
+      "timesTied": 1,
+      "leadChanges": 2,
+      "nugget": null
+  },
+  {
+      "id": 10393,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-10T03:00:00.000Z",
+          "end": "2022-02-10T05:27:00.000Z",
+          "duration": "2:17"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Vivint Arena",
+          "city": "Salt Lake City",
+          "state": "UT",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 11,
+              "name": "Golden State Warriors",
+              "nickname": "Warriors",
+              "code": "GSW",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/de/Warriors_de_Golden_State_logo.svg/1200px-Warriors_de_Golden_State_logo.svg.png"
+          },
+          "home": {
+              "id": 40,
+              "name": "Utah Jazz",
+              "nickname": "Jazz",
+              "code": "UTA",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/3/3b/Jazz_de_l%27Utah_logo.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 41,
+              "loss": 14,
+              "series": {
+                  "win": 2,
+                  "loss": 1
+              },
+              "linescore": [
+                  "31",
+                  "18",
+                  "16",
+                  "20"
+              ],
+              "points": 85
+          },
+          "home": {
+              "win": 34,
+              "loss": 21,
+              "series": {
+                  "win": 1,
+                  "loss": 2
+              },
+              "linescore": [
+                  "30",
+                  "25",
+                  "24",
+                  "32"
+              ],
+              "points": 111
+          }
+      },
+      "officials": [
+          "Derrick Collins",
+          "Kane Fitzgerald",
+          "Jonathan Sterling"
+      ],
+      "timesTied": 3,
+      "leadChanges": 9,
+      "nugget": null
+  },
+  {
+      "id": 10394,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-10T03:00:00.000Z",
+          "end": "2022-02-10T05:18:00.000Z",
+          "duration": "2:06"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Moda Center",
+          "city": "Portland",
+          "state": "OR",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 17,
+              "name": "Los Angeles Lakers",
+              "nickname": "Lakers",
+              "code": "LAL",
+              "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/220px-Los_Angeles_Lakers_logo.svg.png"
+          },
+          "home": {
+              "id": 29,
+              "name": "Portland Trail Blazers",
+              "nickname": "Trail Blazers",
+              "code": "POR",
+              "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Portland_Trail_Blazers_logo.svg/1200px-Portland_Trail_Blazers_logo.svg.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 26,
+              "loss": 30,
+              "series": {
+                  "win": 2,
+                  "loss": 2
+              },
+              "linescore": [
+                  "18",
+                  "36",
+                  "24",
+                  "27"
+              ],
+              "points": 105
+          },
+          "home": {
+              "win": 22,
+              "loss": 34,
+              "series": {
+                  "win": 2,
+                  "loss": 2
+              },
+              "linescore": [
+                  "18",
+                  "29",
+                  "29",
+                  "31"
+              ],
+              "points": 107
+          }
+      },
+      "officials": [
+          "Brent Barnaky",
+          "Brett Nansel",
+          "Kevin Scott"
+      ],
+      "timesTied": 10,
+      "leadChanges": 14,
+      "nugget": null
+  },
+  {
+      "id": 10395,
+      "league": "standard",
+      "season": 2021,
+      "date": {
+          "start": "2022-02-10T03:00:00.000Z",
+          "end": "2022-02-10T05:31:00.000Z",
+          "duration": "2:19"
+      },
+      "stage": 2,
+      "status": {
+          "clock": null,
+          "halftime": false,
+          "short": 3,
+          "long": "Finished"
+      },
+      "periods": {
+          "current": 4,
+          "total": 4,
+          "endOfPeriod": false
+      },
+      "arena": {
+          "name": "Golden 1 Center",
+          "city": "Sacramento",
+          "state": "CA",
+          "country": "USA"
+      },
+      "teams": {
+          "visitors": {
+              "id": 22,
+              "name": "Minnesota Timberwolves",
+              "nickname": "Timberwolves",
+              "code": "MIN",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d9/Timberwolves_du_Minnesota_logo_2017.png/200px-Timberwolves_du_Minnesota_logo_2017.png"
+          },
+          "home": {
+              "id": 30,
+              "name": "Sacramento Kings",
+              "nickname": "Kings",
+              "code": "SAC",
+              "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Kings_de_Sacramento_logo.svg/1200px-Kings_de_Sacramento_logo.svg.png"
+          }
+      },
+      "scores": {
+          "visitors": {
+              "win": 29,
+              "loss": 26,
+              "series": {
+                  "win": 2,
+                  "loss": 1
+              },
+              "linescore": [
+                  "37",
+                  "27",
+                  "37",
+                  "18"
+              ],
+              "points": 119
+          },
+          "home": {
+              "win": 21,
+              "loss": 36,
+              "series": {
+                  "win": 1,
+                  "loss": 2
+              },
+              "linescore": [
+                  "29",
+                  "42",
+                  "28",
+                  "33"
+              ],
+              "points": 132
+          }
+      },
+      "officials": [
+          "J.T. Orr",
+          "Tyler Ford",
+          "Danielle Scott"
+      ],
+      "timesTied": 9,
+      "leadChanges": 9,
+      "nugget": null
+  }
+]
